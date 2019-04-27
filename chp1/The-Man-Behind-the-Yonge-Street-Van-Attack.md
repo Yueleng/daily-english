@@ -8,51 +8,83 @@
 * *noun*, a sudden period of uncontrolled anger like a young child's
 
 
-hoard
+### hoard
 
 * *verb*, to collect large amounts of something and keep it in a safe, often secret, place.
 
-Asperger's syndrome
+### Asperger's syndrome
 
 * a type of autism in which someone does not develop normal social abilities and is often very interested in one particular subject
 
-autism spectrum disorder
+### autism spectrum disorder
 
 * Autism spectrum disorder (ASD) is a developmental disorder that affects communication and behavior. Although autism can be diagnosed at any age, it is said to be a “developmental disorder” because symptoms generally appear in the first two years of life.
 
-slant
+### slanting
 
-* *verb*, to (cause to) lean in a position that is not vertical; to (cause to) slope:
+* *adjective*, sloping in one direction:
 
-brow
+### brow
+
+* *noun*, the forehead (= part of the face above the eyes):
 
 “ass burgers” syndrome.
 
-tics
+* Asperger's syndrome
 
-growling
+### tic
 
-ridiculed
+* *noun*, a sudden and uncontrolled small movement, especially of the face, especially because of a nervous illness
 
-Chewbacca
+### growling
 
-poking
+* *adjective*, (of an animal, especially a dog) making a low guttural sound in the throat that indicates hostility.
 
-prodding
 
-meowed
+### Chewbacca
 
-cajole
+* Chewbacca (/tʃuːˈbɑːkə/), nicknamed "Chewie", is a fictional character in the Star Wars franchise.
 
-egg
+### ridicule
 
-whimper
+* *verb*, to laugh at someone in an unkind way.
 
-recoil
+### poke
 
-curling
+* *verb [t]*, to push a finger or other pointed object quickly into someone or something.
 
-mantra
+### prod
+
+* *verb [i]*, to push something or someone with your finger or with a pointed object
+
+### meow / miaow
+
+* *verb*. (of a cat) to make a high, crying sound:
+
+
+### cajole
+
+* *verb*, to persuade someone to do something they might not want to do, by pleasant talk and (sometimes false) promises:
+
+### egg
+
+* *verb*, to urge or encourage (someone) to do something that is usually foolish or dangerous.
+
+### whimper
+
+* *verb*, (especially of an animal) to make a series of small, weak sounds expressing pain or unhappiness:
+
+### recoil
+
+* *verb*, to move back because of fear or disgust (= dislike or disapproval):
+
+### curling
+
+* *verb*, to make something into the shape of a curl, or to grow or change into this shape.
+
+### mantra
+
+* *noun*, a word or phrase that is often repeated and expresses a particular strong belief:
 
 blurbs
 
