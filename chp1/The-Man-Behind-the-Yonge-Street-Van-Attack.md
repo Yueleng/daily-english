@@ -28,7 +28,7 @@
 
 * *noun*, the forehead (= part of the face above the eyes):
 
-“ass burgers” syndrome.
+### “ass burgers” syndrome
 
 * Asperger's syndrome
 
@@ -86,23 +86,45 @@
 
 * *noun*, a word or phrase that is often repeated and expresses a particular strong belief:
 
-blurbs
+### blurbs
 
-shredding
+* *noun*, a short description of a book, film, etc., written by the people who have produced it, and intended to make people want to buy it or see it.
 
-fraught
+### shred
 
-aptitude
+* *verb*, to cut or tear something roughly into thin strips.
 
-coveted 
+### fraught with
 
-gig
+* full of unpleasant things such as problems or dangers:
+
+### enlist
+
+* *verb [i]*, to join the armed forces.
+
+### aptitude
+
+* *noun* a natural ability or skill.
+
+### coveted 
+
+* *adjective*, greatly desired or envied.
+
+### gig
+
+* *noun*, Gig is slang for a live musical performance. Originally coined in the 1920s by jazz musicians, the term, short for the word "engagement", now refers to any aspect of performing such as assisting with performance and attending musical performance.
 
 teased
 
+* *verb*, to laugh at someone or say unkind things about them, either because you are joking or because you want to upset that person.
+
 platoon
 
+* *noun*, a small group of about ten or twelve soldiers, with a lieutenant in charge of it
+
 recruits
+
+* *noun*, a new member of an organization, especially the army.
 
 swing
 
