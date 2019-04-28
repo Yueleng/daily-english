@@ -5,7 +5,7 @@
 
 ### tantrums
 
-* *noun*, a sudden period of uncontrolled anger like a young child's
+* *noun*, a sudden period of uncontrolled anger like a young child's.
 
 
 ### hoard
@@ -14,7 +14,7 @@
 
 ### Asperger's syndrome
 
-* a type of autism in which someone does not develop normal social abilities and is often very interested in one particular subject
+* a type of autism in which someone does not develop normal social abilities and is often very interested in one particular subject.
 
 ### autism spectrum disorder
 
@@ -22,11 +22,12 @@
 
 ### slanting
 
-* *adjective*, sloping in one direction:
+* *adjective*, sloping in one direction.
 
 ### brow
 
-* *noun*, the forehead (= part of the face above the eyes):
+* *noun*, the forehead (= part of the face above the eyes).
+* *[example]: slanting brow*.
 
 ### “ass burgers” syndrome
 
@@ -34,7 +35,7 @@
 
 ### tic
 
-* *noun*, a sudden and uncontrolled small movement, especially of the face, especially because of a nervous illness
+* *noun*, a sudden and uncontrolled small movement, especially of the face, especially because of a nervous illness.
 
 ### growling
 
@@ -55,16 +56,16 @@
 
 ### prod
 
-* *verb [i]*, to push something or someone with your finger or with a pointed object
+* *verb [i]*, to push something or someone with your finger or with a pointed object.
 
 ### meow / miaow
 
-* *verb*. (of a cat) to make a high, crying sound:
+* *verb*. (of a cat) to make a high, crying sound.
 
 
 ### cajole
 
-* *verb*, to persuade someone to do something they might not want to do, by pleasant talk and (sometimes false) promises:
+* *verb*, to persuade someone to do something they might not want to do, by pleasant talk and (sometimes false) promises.
 
 ### egg
 
@@ -72,11 +73,11 @@
 
 ### whimper
 
-* *verb*, (especially of an animal) to make a series of small, weak sounds expressing pain or unhappiness:
+* *verb*, (especially of an animal) to make a series of small, weak sounds expressing pain or unhappiness.
 
 ### recoil
 
-* *verb*, to move back because of fear or disgust (= dislike or disapproval):
+* *verb*, to move back because of fear or disgust (= dislike or disapproval).
 
 ### curling
 
@@ -84,7 +85,7 @@
 
 ### mantra
 
-* *noun*, a word or phrase that is often repeated and expresses a particular strong belief:
+* *noun*, a word or phrase that is often repeated and expresses a particular strong belief.
 
 ### blurbs
 
@@ -96,7 +97,7 @@
 
 ### fraught with
 
-* full of unpleasant things such as problems or dangers:
+* full of unpleasant things such as problems or dangers.
 
 ### enlist
 
@@ -114,51 +115,94 @@
 
 * *noun*, Gig is slang for a live musical performance. Originally coined in the 1920s by jazz musicians, the term, short for the word "engagement", now refers to any aspect of performing such as assisting with performance and attending musical performance.
 
-teased
+### tease
 
 * *verb*, to laugh at someone or say unkind things about them, either because you are joking or because you want to upset that person.
 
-platoon
+### platoon
 
-* *noun*, a small group of about ten or twelve soldiers, with a lieutenant in charge of it
+* *noun*, a small group of about ten or twelve soldiers, with a lieutenant in charge of it.
 
-recruits
+### recruits
 
 * *noun*, a new member of an organization, especially the army.
 
-swing
+### drill
 
-stumbled
+* *noun*, an activity that practises a particular skill and often involves repeating the same thing several times, especially a military exercise intended to train soldiers.
 
-cheek
+### swing
 
-pronounced
+* *verb*, to move easily and without interruption backwards and forwards or from one side to the other, especially from a fixed point, or to cause something or someone to do this.
 
-oblivious
+### stumble
 
-woefully
+* *verb*, to step awkwardly while walking or running and fall or begin to fall.
+* *[example]: He didn’t have the motor control to complete simple stopping drills: when the recruits were ordered to swing their right legs without moving their bodies, Minassian stumbled.*
 
-drill hall 
+### cheek
+* *noun*, the soft part of your face that is below your eye and between your mouth and ear.
 
-monosyllabic
+### pronounced
 
-commiserate
+* *adjective*, very noticeable or certain.
+* *[example]: His physical tics—hand to cheek, hand to ear, then hand to nose—were so pronounced that they distracted the other recruits in class.*
 
-bunk
 
-baffled
+### oblivious
 
-barked 
+* *adjective*, not conscious of something, especially what is happening around you:
 
-push-ups
+### woefully
+
+* *adverb*, used to emphasize how bad a situation is.
+* *[example]: He seemed oblivious to the constraints of time, falling woefully behind in exercises.*
+
+### drill hall 
+
+* A drill hall is a place such as a building or a hangar where soldiers practice and perform military drill. In the United Kingdom and Commonwealth, the term was used for the whole headquarters building of a military reserve unit, which usually incorporated such a hall. 
+* *[example]: He even had trouble packing his kit, wandering around the drill hall aimlessly, unsure of what he needed.*
+
+### monosyllabic
+
+* *adjective*, saying very little in a way that is rude or unfriendly
+* *[example]: He usually sat alone, and always answered questions with monosyllabic indifference.*
+
+### barracks
+
+* *noun*, a building or group of buildings where soldiers live.
+
+### commiserate
+
+* *verb [i]*, to express sympathy to someone about some bad luck.
+
+### bunk
+
+* *noun*, bed one of two beds attached together, one on top of the other.
+* *[example]: In the evenings, when the others would gather in the barracks to joke and commiserate, Minassian stayed in his bunk.*
+
+### baffle
+
+* *verb*, to cause someone to be completely unable to understand or explain something.
+* *[example]: His uniform would be unkempt, or his clothes folded incorrectly in his kit. Summerfield was baffled. “It seemed like he didn’t understand the gravity of the situation he was in,”*
+
+### barked 
+
+* *verb [T]*, to shout at someone in a forceful manner:
+
+### push-ups
+
+* A push-up is a common calisthenics exercise beginning from the prone position, or the front leaning rest position known in the military.
+* *[example]: Instructors barked orders at him, making him do one push-up for each loose thread on his uniform, or making the entire platoon do push-ups for Minassian’s mistakes.* 
 
 beret
 
-Strep throat
+* *noun*, a round, flat hat made of soft material.
+* *[example]: He showed him how to shape his beret properly, suggesting that he shower with it on and let it dry on his head.*
+
+### Strep throat
 
 infirmary
-
-barracks
 
 curl
 
