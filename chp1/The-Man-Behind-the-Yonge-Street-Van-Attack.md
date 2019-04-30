@@ -168,6 +168,12 @@
 * *adjective*, saying very little in a way that is rude or unfriendly
 * *[example]: He usually sat alone, and always answered questions with monosyllabic indifference.*
 
+### firearm
+
+* *noun*, a gun that can be carried easily.
+
+* *[example]: Summerfield knew Minassian never would have qualified for a civilian firearm licence—so why was he admitted to the armed forces as an infantry soldier?*
+
 ### barracks
 
 * *noun*, a building or group of buildings where soldiers live.
@@ -202,27 +208,41 @@ beret
 
 ### Strep throat
 
-infirmary
+* Strep throat is a bacterial infection that can make your throat feel sore and scratchy. Strep throat accounts for only a small portion of sore throats. If untreated, strep throat can cause complications, such as kidney inflammation or rheumatic fever.
 
-curl
+* *[example]: By the third week, Minassian had come down with a strain of strep throat so common in basic training that recruits joke it’s unique to the forces.*
 
-discharge
+### infirmary
+* *noun*, a room in a school, college, or university where students who are injured or feeling ill can go to a nurse for treatment
+* *[example]: He went to the infirmary.*
+
+### discharge
 
 * *verb*, to allow someone officially to leave somewhere, especially a hospital or a law court.
 
-firearm
+### icebreaker
+* *noun*, ​a game or joke that makes people who do not know each other feel more relaxed together.
+* *[example]: In one class, the students played two truths and a lie as an icebreaker.*
 
-icebreaker
+### hover
+* *noun*, to stand somewhere, especially near another person, eagerly or nervously waiting for their attention.
 
-hover
 
-outskirt
+### outskirt
+* *noun*, the areas that form the edge of a town or city.
 
-perfunctory
+### perfunctory
+* **adjective*, one quickly, without taking care or interest.
+* *[example]: Minassian usually arrived early to class, and always by himself. He hovered on the outskirts of social groups, trying to befriend others in his program by asking them perfunctory questions about where they’d completed their co-ops or how they’d done on labs and tests.*
 
-tit men or ass men
+### tit men 
+* A male who is partial to busty women, particularly their big breasts. He enjoys female breasts so much so that he would often rather titfuck a woman as opposed to actual intercourse.
 
-canvassed 
+* *[example]: Once, in the back of a classroom, when conversation turned to women, the male students went around in a circle, declaring whether they were tit men or ass men.*
+
+### canvass
+* *verb*, to try to discover information or opinions by asking people:
+* *[example]: He canvassed his colleagues on how to nail interviews, asking for advice over Slack.*
 
 nail
 
