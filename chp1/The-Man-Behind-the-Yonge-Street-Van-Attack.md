@@ -242,159 +242,191 @@ beret
 
 ### canvass
 * *verb*, to try to discover information or opinions by asking people:
+
+### nail
+
+* *verb* to do something succcessfully.
 * *[example]: He canvassed his colleagues on how to nail interviews, asking for advice over Slack.*
 
-nail
 
-parrot
+### parrot
+* *verb [t]*, to repeat exactly what someone else says, without understanding it or thinking about its meaning.
+* *[example]: He began to parrot his classmates’ behaviour.*
 
-rant
+### rant
+* *vert [i]*, to speak, write or shout in a loud, uncontrolled, or angry way, often saying confused or silly things.
 
-verbatim
+### verbatim
+* *adverb*, using exactly the same words as were originally used.
 
-rile up
+### rile up
+* To make a person or animal uncontrollably excited by making swift movements and yelling loudly and quickly.
+* *[example]: When he ranted about the program’s shortcomings, Minassian joined in, repeating his friend’s words nearly verbatim, getting increasingly riled up with every point.*
 
-skimmed
+### skim
+* *verb [I or T]*, to read or consider something quickly in order to understand the main points, without studying it in detail.
 
-rachet up
+### rachet up
+* To increase in speed, intensity, or force over several incremental degrees. 
+* *[example]: When his classmate said he didn’t like how the teachers skimmed over dense material in class, Minassian agreed and ratcheted the conversation up.*
 
-* move by degrees in one direction only.
+### demeanour 
+* *noun*, the way a person behaves towards others; conduct.
 
-demeanour 
+### fray
+* *verb [I]*, (become annoyed) If your temper frays or your nerves fray, you gradually become upset or annoyed.
+* *[example]: Toward the end of the semester, Minassian still hadn’t received a job offer, and his gentle demeanour began to fray.*
 
-fray
+### storm out of
+* to burst out of some place angrily.
+* *[example]: In mid-March, a fight broke out in the back of a classroom between him and another student. “Fuck you!” Minassian yelled at his classmate, before storming out of the room.*
 
-storming out of
+### cryptic 
+* *adjective*, mysterious and difficult to understand. 
+* *[example]: And then, on the morning of April 19, he posted a cryptic message on Slack.* 
 
-cryptic 
+### good riddance
+* said when you are pleased that a bad or unwanted thing or person, or something of poor quality, has gone.
+* *[example]: “Finally finished college. Fuck you all and good riddance.”*
 
-good riddance
+### jest
+* *noun*, something that is said or done in order to be funny.
+* *[example]: His fellow students took it as a joke. “Hahahahah fuck you, good luck finding a job,” one classmate wrote back in jest.*
 
-jest
-
-late bloomer
-
+### late bloomer
 * *noun*, The definition of a late bloomer is someone or something that does not come into his or her its own, either mentally or physically, until after most other peers. An example of a late bloomer is a person who is shorter than all her classmates but has a growth spurt right before going to college.
+* *[example]: A self-described late bloomer, Alana determined that there must be others who shared her feelings.*
 
-fledgling
+### fledgling
+* *adjective*, one that is new.
+* *[example]: And so, in the fledgling days of the Internet, she started an all-text website—Alana’s Involuntary Celibacy Project—designed as a forum where people of all genders could talk about their difficulty forming intimate relationships.*
 
-wont
+### wont
+* *adjective*, to often do something.
+* *[example]: The incel movement grew, as Internet subcultures are wont to do, and in 2014, a man named Elliot Rodger in Isla Vista, California, sent a 141-page manifesto entitled My Twisted World to family and friends and posted a video on YouTube.*
 
-obnoxious 
+### obnoxious
+* *adjective*, very unpleasant or rude.
+* *[example]: I’m the perfect guy and yet you throw yourselves at all these obnoxious men instead of me, the supreme gentleman.”*
 
-killing spree
+### killing spree
+* a short period of doing something in an extreme way without control.
 
-stab
 
-sorority 
+### stab
+* *verb*, to injure someone with a sharp pointed object such as a knife. 
 
-copycat 
-
-abhorrent 
-
+### sorority 
+* *noun*, a social organization for female students at some US colleges.
+* *[example]: Then he went on a killing spree: he stabbed his two roommates and one of their friends, shot two women outside a sorority house and another man, and shot himself in the front seat of his black BMW.*
+### copycat 
+* *noun*, someone who has few ideas of their own and does or says exactly the same as someone else.
+* *[example]: Three years after the massacre, Reddit’s incel forum had 40,000 active members and there were dozens of copycat groups.*
+### abhorrent 
+* *[example]: *
 incest 
-
+* *[example]: *
 caricatures
-
+* *[example]: *
 loathe 
-
+* *[example]: *
 Chad
 * *noun*, a Chad, in derogatory slang, is a young urban American man, typically single and in his 20s or early 30s.
-
+* *[example]: *
 Stacy
 * *noun* The most beautiful girl you will ever meet with gorgeous eyes. Daring, bold and not afraid to stand out for those who they love. They love to read but can turn into a party animal raising the mood around. Rough in bed
-
+* *[example]: *
 lust
-
+* *[example]: *
 roastie
-
+* *[example]: *
 labia (labia minora, labia majora)
-
+* *[example]: *
 stretch
-
+* *[example]: *
 LDAR
-
+* *[example]: *
 femoid
 * *noun*, a snarl word for women, generally used by incels, to refer to women especially in the context of sexual objectification. A combination of female and humanoid implying a "less than human" status.
-
+* *[example]: *
 blanket term
-
+* *[example]: *
 hydra
-
+* *[example]: *
 shorn
-
+* *[example]: *
 erratic
-
+* *[example]: *
 bald 
-
+* *[example]: *
 clamber
-
+* *[example]: *
 bolt
 
 * *verb* to move very fast, especially as a result of being frightened:
-
+* *[example]: *
 swing
-
+* *[example]: *
 near 
 * *verb*
-
+* *[example]: *
 gearshift
-
+* *[example]: *
 Infantry
-
+* *[example]: *
 hail
-
+* *[example]: *
 slid
-
+* *[example]: *
 curb
-
+* *[example]: *
 plow
-
+* *[example]: *
 smash
-
+* *[example]: *
 swerved 
-
+* *[example]: *
 flinched
-
+* *[example]: *
 tossed his phone
-
+* *[example]: *
 handcuffs
-
+* *[example]: *
 feverishly 
-
+* *[example]: *
 inceldom
-
+* *[example]: *
 downed 
-
+* *[example]: *
 face lined and eyes sunken
-
+* *[example]: *
 mob 
-
+* *[example]: *
 Detention 
-
+* *[example]: *
 plead 
-
+* *[example]: *
 nonagenarian 
-
+* *[example]: *
 mowing 
-
+* *[example]: *
 spinal fractures
-
+* *[example]: *
 a pulmonary embolism
-
+* *[example]: *
 vertigo
-
+* *[example]: *
 punitive 
-
+* *[example]: *
 spinal cord
-
+* *[example]: *
 spine, ribs and pelvis
-
+* *[example]: *
 premeditated 
-
+* *[example]: *
 faltering 
-
+* *[example]: *
 shot the shit
-
+* *[example]: *
 
 
