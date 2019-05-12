@@ -425,26 +425,35 @@ most important, because of including or affecting all other areas.
 
 ### run-of-the-mill
 
+* Something that is run-of-the-mill is a common, everyday, ordinary item that does not stand out from the rest. Something or someone that is "run-of-the-mill" is probably not notable.
 * *[example]: By all appearances, he was a fairly run-of-the-mill conservative.*
 
 ### crumble
 
+* *verb*, to break, or cause something to break, into small pieces.
+
 ### Ventures
+
+* *noun*, a new business activity.
 
 ### gear
 
+* *noun*, the equipment, clothes, etc. that you use to do a particular activity.
 * *[example]: That façade began to crumble in the fall of 2018, when an investigation by Ricochet Media revealed that Mr. Strashok was helping to manage Fireforce Ventures, an online store that sold coded white-supremacist symbols in the form of military-surplus gear.*
 
 ### touted
 
+* *verb*, to advertise, talk about, or praise something or someone repeatedly, especially as a way of encouraging people to like, accept, or buy something.
 * *[example]: Mr. Strashok, whose LinkedIn profile touted his political-organizing experience, was eventually denounced by Mr. Kenney and expelled from the party after his online activity was exposed.*
 
 ### gripes
 
+* *noun*, a strong complaint.
 * *[example]: Even as they shared prejudices, gripes, conspiracy theories and dark strategies, most of the chat-group members had never met in person.*
 
 ### amalgam
 
+* *noun*, a combination of parts that create a complete whole.
 * *[example]: They called the gathering “Leafensraum” – an amalgam of leafs (their slang for “Canadians”) and lebensraum (the Nazi policy of territorial expansion).*
 
 ### tentatively
@@ -468,6 +477,8 @@ most important, because of including or affecting all other areas.
 
 ### booze
 
+* *noun*, alcohol.
+
 ### sparred
 
 * *verb*, ​to practise boxing, without hitting hard
@@ -479,6 +490,7 @@ most important, because of including or affecting all other areas.
 
 ### moonshine
 
+* *noun, mainly US*, mainly us alcohol that is made illegally.
 * *[example]: As their recorded podcast wore on, members became increasingly intoxicated, drinking moonshine supplied by Rusty, the Canadian soldier, and slurring their words.*
 
 ### holomosque
@@ -487,7 +499,7 @@ most important, because of including or affecting all other areas.
 
 ### sojourn
 
-* *noun*, a short period when a person stays in a particular place:
+* *noun*, a short period when a person stays in a particular place.
 * *[example]: As their sojourn in the woods ended, the administrators and leaders of the group promoted everyone present to important roles in the Canadian Super Players chat room.*
 
 ### espoused
@@ -506,7 +518,7 @@ most important, because of including or affecting all other areas.
 
 ### normie
 
-* *[example]: *
+* *noun*, (plural normies) (slang, usually derogatory) A normal person; one with commonly held beliefs, tastes or interests.
 
 ### Natsoc
 
@@ -520,12 +532,16 @@ most important, because of including or affecting all other areas.
 
 ### segmented
 
+* *adjective*, consisting of or divided into segments.
+
 ### fractured
 
+* *adjective*, (of an organization or other abstract thing) split or broken and unable to function or exist.
 * *[example]: But however segmented the movement may be – and, historically, the far-right in Canada has been fractured – members of the online chat group appeared to be building ties with far-right organizations across the country.*
 
 ### edgy
 
+* *adjective*, nervous; not calm.
 * *[example]: A few months after the Charlottesville rally, Mr. Zafirov described a shift, not unlike that advocated by SLUG2, in the strategy of Generation Identity (as it was then still called), saying it would become less “edgy” in order to appeal to a more mainstream Canadian demographic.*
 
 ### optics
@@ -536,15 +552,17 @@ most important, because of including or affecting all other areas.
 
 * *[example]: “We are on a crusade against bad optics,” Mr. Zafirov wrote. “Think of it as the clean image wing of the movement, we believe there’s some value and historical success behind the strategy.”*
 
-### castigated
+### castigate
 
+* *verb*, to criticize someone or something severely.
 * *[example]: They disliked the Proud Boys, for instance, for being too friendly with Jews. Some also castigated La Meute due to its ties with the Jewish Defence League.*
 
 ### berated
 
+* *verb*, to criticize or speak in an angry manner to someone.
 * *[example]: Although members berated far-right individuals whose public persona was less extreme than their politics, they occasionally made an exception for people who had a large following. Ms. Goldy was among those exceptions.*
 
-### lauding
+### laud
 
 * *verb*, to praise.
 * *[example]: Members shared her tweets and discussed her value to their movement, lauding her for speaking “the 14 words.”*
@@ -561,8 +579,9 @@ most important, because of including or affecting all other areas.
 
 * *noun*, a word that is used instead of a noun or a noun phrase: she, it, who
 
-### incursions
+### incursion
 
+* *noun*, an occasion when people suddenly involve themselves in another person's private situation.
 * *[example]: The chat-group members extended a similar détente to University of Toronto psychology professor Jordan Peterson, a famous and outspoken critic of academic orthodoxy, the use of gender-neutral pronouns and incursions on free speech.*
 
 ### venue
