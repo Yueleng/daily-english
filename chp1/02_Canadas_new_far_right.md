@@ -37,183 +37,257 @@
 
 ### Nazism
 
-### Holocaust
+* *noun*, the beliefs and policies of the National Socialist (German Workers') Party, led by Adolf Hitler, which controlled Germany from 1933 to 1945.
 
+### the Holocaust
+
+* the killing of millions of Jews and others by the Nazis before and during the Second World War.
 * *[example]: The discussions celebrate Nazism and joke about the Holocaust.*
 
 ### boasts
 
+* *noun*, something you are proud of and like to tell people about.
 * *[example]: They contain boasts of racist, sexist and homophobic behaviour on the part of participants.*
 
 ### inflammatory
 
+* *adjective*, intended or likely to cause anger or hate.
 * *[example]: While the news media traditionally avoid publishing such offensive and inflammatory material, in order to prevent giving extremists a platform, The Globe has chosen, for the sake of transparency and accuracy, to reproduce a limited number of examples of the ideas expressed in the online discussions.*
 
 ### gratuitous
 
+* *adjective*, (of something such as bad behaviour) not necessary, or with no cause.
+
 ### slurs
+
+* *noun*, a remark that criticizes someone and is likely to have a harmful effect on their reputation.
 
 ### virulent
 
+* *adjective*, full of hate and violent opposition.
+
 ### vernacular
 
+* *noun*, the form of a language that a particular group of speakers use naturally, especially in informal situations.
 * *[example]:  The selection omits the most gratuitous slurs and images, but the result is a disturbing portrait of a virulent subculture that speaks in a graphic, hate-fuelled vernacular.*
 
 ### palatable
 
+* *adjective* acceptable.
+
 ### guise
 
+* *noun*, the appearance of someone or something, especially when intended to deceive.
 * *[example]: They have also attempted to join, influence and volunteer for Canadian political parties, usually adopting a restrained and more palatable guise.*
 
 ### surge
 
+* *noun*, a sudden and great increase.*
+
 ### simmering
 
+* *adjective*, Something that is simmering is controlled but may burst out at any time, often violently.
 * *[example]: Last month’s terrifying attack on mosques in Christchurch, N.Z., in which 50 people were shot to death and 50 more injured, and which were livestreamed by the alleged killer on Facebook, ignited a worldwide surge of anxiety about the simmering threat of white-nationalist terrorism.*
 
 ### preoccupied
 
+* *adjective*, thinking or worrying about something too much.
 * *[example]: David Vigneault, director of the Canadian Security Intelligence Service (CSIS), said earlier this month that his agency is increasingly preoccupied by the threat of right-wing extremists.*
 
 ### mayoral
 
+* *adjective*, of or relating to a mayor (= a person elected or chosen to lead a town or its local government).
 * *[example]: His remarks came shortly after Facebook banned a number of people, including former Toronto mayoral candidate Faith Goldy and Canadian white-nationalist campaigner Kevin Goudreau, for promoting organized hate.*
 
 ### denounce
 
+* *verb*, to criticize something or someone strongly and publicly.
 * *[example]: The threat of white nationalism, and the failure to denounce it, has become an increasingly pressing political issue.*
 
 ### ballot-box
 
+* a box into which people put their voting slips when voting.
 * *[example]:  Earlier this month, Prime Minister Justin Trudeau accused Mr. Scheer of not doing enough to condemn racism and extremism, a signal that the Liberals may seek to make this a ballot-box issue in the upcoming election.*
 
 ### fractious
 
+* *adjective*, 
+easily upset or annoyed, and often complaining.
 * *[example]: In part, that lack of concern reflected a view of the far right as self-defeatingly fractious.*
 
 ### infighting
 
+* *noun*, ​competition between people within a group, especially to improve their own position or to get agreement for their ideas.
 * *[example]: Groups tended to spring up – and disappear ­– with regularity, often destroyed by infighting.*
 
-### dismissed
+### dismiss
 
-* *[example]: *
+* *verb*, to decide that something or someone is not important and not worth considering.
 
 ### rump
 
+* *noun*, a small or unimportant remnant of something originally larger.
 * *[example]: They were dismissed as an ineffectual rump of high-school dropouts who couldn’t effectively organize anything.*
 
 ### scrutiny
 
+* *noun*, the careful and detailed examination of something in order to get information about it.
 * *[example]: That compares, she says, with a relative handful of incidents that can be attributed to Islamist-inspired suspects, who tend to draw far more intense scrutiny from police and intelligence agencies.*
 
 ### Skinhead
 
+* *noun*, a young person, especially a man, who has very short hair or no hair and is part of a group, often a violent group.
+
 ### cohort
 
+* *noun*, a group of people who share a characteristic, usually age.
 * *[example]: And numbers tell only part of the story, says Dr. Perry. Skinhead and neo-Nazi groups comprising, for the most part, socially marginal members of society, have been supplemented by a new cohort whose recruits tend to be better educated and better off financially.*
 
-### tactics
+### tactic
 
+* *noun*, a planned way of doing something.
 * *[example]: They are also better organized, and are willing to embrace a range of new tactics.*
 
-### clashes
+### clash
 
+* *verb*, to fight or argue.
 * *[example]: A far-right protester clashes with counter-protesters during a far-right rally on Parliament Hill.*
 
 ### overarching
 
+* *adjective*, 
+most important, because of including or affecting all other areas.
+
 ### ethnostate
+
+* *noun*, A white ethnostate is a proposed type of state in which residence or citizenship would be limited to white people.
 
 ### foothold
 
+* *noun*, a situation in which someone has obtained the power or influence needed to get what is wanted.
 * *[example]: The overarching goal for many in the Canadian Super Players chat group was the eventual creation of a white ethnostate. In the meantime, one aim was to begin slowly gaining a foothold in a range of institutions and professions, including law, education and the military.*
 
 ### grassroots
 
+* *noun*, the ordinary people in a society or an organization, especially a political party.
 * *[example]: One member described himself as a graduate student and an active far-right recruiter with a keen interest in grassroots political organization.*
 
 ### overt
 
+* *adjective*, done or shown publicly or in an obvious way and not secret.
 * *[example]: Another said he worked in a small Ontario city at a blue-collar job where he was trying to gradually increase his “power level,” or overt racism, to convert his co-workers to his world view.*
 
 ### bragged
 
+* *verb*, to speak with pride, often with too much pride, about something you have done or something you possess. 
 * *[example]: A third was a middle-aged father who bragged that his teenage children seemed to be adopting his attitudes.*
 
 ### moniker
 
+* *noun*, a name or nickname.
 * *[example]: Yet another, who went by the online moniker Dank, described himself as a University of Toronto graduate who was now training at another institution to become a teacher.*
 
 ### deportations
 
+* *noun*, ​to force someone to leave a country, especially someone who has no legal right to be there or who has broken the law.
 * *[example]: “What was the point of the train cars and the deportations if it was just to kill them all?”*
 
 ### delegating
 
+* *verb*, to give a particular job, duty, right, etc. to someone else so that they do it for you.
 * *[example]: that way I'm delegating research to her and not telling her anything.*
 
-### charges
+### charge
 
-### stumble
+* *noun*, responsibility for controlling or caring for something.
+
+### stumble upon
+
+* *verb*, To find or meet by chance.
 
 ### formative
+
+* *adjective*, elating to the time when someone or something is starting to develop in character.
 * *[example]: Dank told the online group that he hoped his charges would stumble upon the same sources that he did in his formative years.*
 
-### rabbit hole 
+### rabbit hole
 
 * *noun*, Metaphor for the conceptual path which is thought to lead to the true nature of reality. Infinitesimally deep and complex, venturing too far down is probably not that great of an idea.
 * *[example]: Such actions had persuaded Dank to research the Holocaust himself, which ultimately led him down a rabbit hole of Nazi-sympathetic websites.*
 
 ### Indigenous
+
+* *naturally existing in a place or country rather than arriving from another place.*
 * *[example]: He also said he made sure to use a discussion of Indigenous identity to explain to the children that they were white and European.*
 
 ### adamant
+
+* *adjective*, impossible to persuade, or unwilling to change an opinion or decision.
 * *[example]: He was adamant that the far-right movement required a presence in the teaching profession, because, as he put it: “we absolutely need to have our guys in the institutions.”*
 
 ### lest
 
+* *conjunction*, in order to prevent any possibility that something will happen.
 * *[example]:  He said he thought he had a good chance of remaining undercover, although he was worried about getting too close to any colleagues, lest they betray him.*
 
-### acing
+### ace
+
+* *verb*, to do very well in an exam.
 
 ### narratives
 
+* *noun*, a particular way of explaining or understanding events.
 * *[example]: “l’ll play their game and recite what they want to hear,” he said, adding that he was “acing the diversity class because I know all their narratives.*
 
-### implored
+### implore
+
+* *verb*, to ask someone to do or not do something in a very sincere, emotional, and determined way.
 * *[example]: He implored his peers: “We can’t just give over education to the people who hate us.”*
 
 ### online handle
 
-### tactics
+* what you go by on the internet. see screen name.
 * *[example]: One man, who went by the online handle Rusty and who described himself as an experienced member of the Canadian Armed Forces, was seen by other members as a leader and his advice on training, weapons and tactics was sought after.*
 
 ### gearing up
 
+* equip or prepare oneself.
+
 ### triplets
 
+* *noun*, one of three children born to the same mother at the same time.
 * *[example]: At the time of his 2017 postings, he said that he and his wife were living in Nova Scotia and gearing up for the arrival of triplets.*
 
 ### snowflakes
 
+* *noun*, an insulting way of referring to someone who is considered by some people to be too easily upset and offended.
+
 ### deployment
 
+* *noun*, the movement of soldiers or equipment to a place where they can be used when they are needed.
 * *[example]: “We spend more time taking classes about how to not offend special snowflakes than we spend time training, shooting, in the field or on deployment.”*
 
 ### reserves
 
+* *noun*, a group of people who are not permanently in the armed forces but are used only if needed.
 * *[example]: He encouraged group members to join the reserves in order to benefit from training in firearms and strategy.*
 
 ### stamp it out
 
+* To stamp out something is to end it.
 * *[example]: In media interviews, Chief of Defence Staff General Jonathan Vance has admitted that extremism is present in the Forces – and has said he is determined to stamp it out.*
 
 ### perils
 
+* *noun*, great danger, or something that is very dangerous.
+
 ### starkly
 
+* *adverb*, very obviously and clearly.
+
 ### driven home
+
+
 
 ### dismantling
 
@@ -297,8 +371,6 @@
 
 ### pry
 
-### dismissed
-
 ### reprehensible
 
 * *[example]: They reasoned that if they could pry open that window further – and push those limits to the right – their own views might not so easily be dismissed as reprehensible.*
@@ -308,6 +380,7 @@
 * *[example]: The record of their discussions ends before Mr. Bernier announced the launch of his breakaway People’s Party of Canada in September of 2018.*
 
 ### derided
+
 * *[example]: The previous July, Mr. Strashok had derided Mr. Kenney himself.*
 
 ### cuck
@@ -344,103 +417,177 @@
 
 ### amalgam
 
-* *[example]: *
+* *[example]: They called the gathering “Leafensraum” – an amalgam of leafs (their slang for “Canadians”) and lebensraum (the Nazi policy of territorial expansion).*
 
 ### tentatively
-* *[example]: *
+
+* *adverb*, in a way that may be changed later.
+* *[example]: The alt-right was, however tentatively, moving from an online subculture to what it envisioned as a more street-fighting, real-world movement.*
+
 ### surmised
-* *[example]: *
+
+* *verb*, to guess something, without having much or any proof:
+
 ### capitalize
-* *[example]: *
+
+* *verb*, take the chance to gain advantage from.
+* *[example]: This was the alt-right’s moment, members of the chat group surmised and they wanted to capitalize on the momentum, in Canada.*
+
 ### contingent
-* *[example]: *
+
+* *noun*, a group of people representing an organization or country, or a part of a military force.
+* *[example]: They came from all over the country, with the biggest contingent arriving from Montreal.*
+
 ### booze
-* *[example]: *
+
 ### sparred
-* *[example]: *
+
+* *verb*, ​to practise boxing, without hitting hard
+* *[example]: They brought plenty of food and booze, sparred with one another and made big breakfasts after long nights of drinking.*
+
 ### intoxicated
-* *[example]: *
+
+* *adjective*, drunk.
+
 ### moonshine
-* *[example]: *
+
+* *[example]: As their recorded podcast wore on, members became increasingly intoxicated, drinking moonshine supplied by Rusty, the Canadian soldier, and slurring their words.*
+
 ### holomosque
-* *[example]: *
+
+* *[example]: They talked about the Quebec City mosque shooting, referring to it as the “holomosque.”*
+
 ### sojourn
-* *[example]: *
+
+* *noun*, a short period when a person stays in a particular place:
+* *[example]: As their sojourn in the woods ended, the administrators and leaders of the group promoted everyone present to important roles in the Canadian Super Players chat room.*
+
 ### espoused
-* *[example]: *
+
+* *verb*, ​to become involved with or support an activity or opinion.
+
+
 ### paralegal
-* *[example]: *
+
+* *noun*, someone who works in a law company, or a company's legal department, and has some legal training, but does not have all the qualifications to be a lawyer
+* *[example]: But the mood shifted on day two, after James Alex Fields Jr., who had previously espoused white-supremacist and neo-Nazi beliefs, drove his car into a crowd of counterprotesters, killing 32-year-old paralegal Heather Heyer and prompting police to shut the protest down.*
+
 ### backdrop
-* *[example]: *
+
+* *noun*, the general situation in which particular events happen.
+* *[example]: Talk online turned to failure, against a backdrop of a broader collapse in the far right’s street-level activities.*
+
 ### normie
+
 * *[example]: *
-### Natsoc imagery
-* *[example]: *
+
+### Natsoc
+
+* The National Socialist Movement(NSM)
+* *[example]: We want to do a minor re-brand of the alt-right. I personally want to ask @everyone not to use swastikas or other obvious National Socialist imagery (publicly). We are trying to become more mainstream of an ideology, and in the eyes of the normie, Natsoc imagery is pure evil. While the vast majority of the alt right disagrees with what the average normie believes, we need to keep in mind that we are nothing without numbers. We are not changing any of out beliefs or opinions, just how we present publicly. Sorry.*
+
 ### circumspection
-* *[example]: *
+
+* *noun*, the quality of being wary and unwilling to take risks; prudence.
+* *[example]: He was not alone in his call for circumspection.*
+
 ### segmented
-* *[example]: *
+
 ### fractured
-* *[example]: *
+
+* *[example]: But however segmented the movement may be – and, historically, the far-right in Canada has been fractured – members of the online chat group appeared to be building ties with far-right organizations across the country.*
+
 ### edgy
-* *[example]: *
+
+* *[example]: A few months after the Charlottesville rally, Mr. Zafirov described a shift, not unlike that advocated by SLUG2, in the strategy of Generation Identity (as it was then still called), saying it would become less “edgy” in order to appeal to a more mainstream Canadian demographic.*
+
 ### optics
-* *[example]: *
+
+* *noun*, the public's opinion and understanding of a situation after seeing it as the media shows it, and the possible political effects of this.
+
 ### clean image wing
-* *[example]: *
+
+* *[example]: “We are on a crusade against bad optics,” Mr. Zafirov wrote. “Think of it as the clean image wing of the movement, we believe there’s some value and historical success behind the strategy.”*
+
 ### castigated
-* *[example]: *
+
+* *[example]: They disliked the Proud Boys, for instance, for being too friendly with Jews. Some also castigated La Meute due to its ties with the Jewish Defence League.*
+
 ### berated
-* *[example]: *
+
+* *[example]: Although members berated far-right individuals whose public persona was less extreme than their politics, they occasionally made an exception for people who had a large following. Ms. Goldy was among those exceptions.*
+
 ### lauding
-* *[example]: *
+
+* *verb*, to praise.
+* *[example]: Members shared her tweets and discussed her value to their movement, lauding her for speaking “the 14 words.”*
+
 ### détente
-* *[example]: *
+
+* *noun*, an improvement in the relationship between two countries that in the past were not friendly and did not trust each other:
+
 ### orthodoxy
-* *[example]: *
+
+* *noun*, the generally accepted beliefs of society at a particular time.
+
 ### pronouns
-* *[example]: *
+
+* *noun*, a word that is used instead of a noun or a noun phrase: she, it, who
+
 ### incursions
-* *[example]: *
+
+* *[example]: The chat-group members extended a similar détente to University of Toronto psychology professor Jordan Peterson, a famous and outspoken critic of academic orthodoxy, the use of gender-neutral pronouns and incursions on free speech.*
+
 ### venue
-* *[example]: *
+
+* *[example]: Canadian Super Players members also spoke of using the professor’s events as venues for recruiting.*
+
 ### emboldened
-* *[example]: *
+
+* *[example]: The chat room and its conversations exist in a digital world one step removed from reality, which can make it difficult to assess the threat they represent. But the participants were also taking concrete steps in their communities to advance their political aims; the chat room emboldened and encouraged them, and gave them a place to report their progress and be held to account.*
+
 ### prosecutors
-* *[example]: *
+
+* *[example]: U.S. prosecutors said that Dylann Roof, who killed nine black people at a South Carolina church in 2015, was self-radicalized online.*
+
 ### synagogue
-* *[example]: *
+
+* *[example]: The man accused of killing 11 people at a Pittsburgh synagogue last year had posted dozens of anti-Semitic messages on social media before delivering a final post that read, “Screw your optics, I’m going in.”*
+
 ### insidious
-* *[example]: *
+
+* *noun*, a building in which Jewish people worship and study their religion.
+* *[example]: The man accused of killing 11 people at a Pittsburgh synagogue last year had posted dozens of anti-Semitic messages on social media before delivering a final post that read, “Screw your optics, I’m going in.”*
+
 ### spate
-* *[example]: *
+* *[example]: In the fall of 2017, a spate of postering campaigns around the University of Toronto campus attracted attention on social media and the student press.*
 ### provocative
-* *[example]: *
+* *[example]: The posters carried a simple but provocative slogan: “It’s Okay To Be White.”*
 ### thoroughfare
-* *[example]: *
+* *[example]: On Nov. 1, Orwelliandoublethink wrote, “We hit a good amount of the U of T campus on St. George,” referring to a main thoroughfare that runs through the university.*
 ### Marxist
-* *[example]: *
+* *[example]: When someone in the chat forum asked why there were so many racists at the university, he replied, “U of T is where white men go to have their dreams crushed by a Marxist professor who is likely Jewish.”*
 ### foray
-* *[example]: *
+
 ### averse
-* *[example]: *
+* *[example]: After the postering foray, members of the chat room discussed how they hoped that some people who saw the posters, and who would otherwise be averse to a white-supremacist message, might regard the five-word slogan as reasonable.*
 ### inadvertently
-* *[example]: *
+* *[example]: They talked, as well, about how they hoped the media would inadvertently spread their message.*
 ### plastered
-* *[example]: *
+* *[example]: Similar posters were plastered on campuses across the country, including at the University of Alberta, the University of Regina and the University of Victoria.*
 ### dominoes
-* *[example]: *
+* *[example]: Participants were excited by how their dog-whistle campaign had gained such coverage: “Bigger and bigger papers are publishing. Like dominoes. Hopefully we’re just getting started.”*
 ### epithets
-* *[example]: *
+* *[example]: Going by the pseudonym National Traditionalist, he told fellow members on the Canadian Super Players chat group that he “hated” his high school and most of his peers, using epithets to describe gay people, trans people, immigrants and refugees in his classes.*
 ### resented
-* *[example]: *
+* *[example]:  He said he resented living in a multicultural society.*
 ### lobbyists
-* *[example]: *
+* *[example]: He blamed “Jewish lobbyists” for the decision to open Canadian immigration to “non-whites.”*
 ### Perversely
-* *[example]: *
+* *[example]: Perversely, he claimed to enjoy reading about Indigenous people who had gone missing in places such as Winnipeg.*
 ### progressive politics
-* *[example]: *
+* *[example]: Over the course of the year-long group chat, he also revealed a lot about his life. He came from a “normie liberal household” in the Vancouver neighbourhood of Kitsilano, a place known for progressive politics.*
 ### heckling
-* *[example]: *
+* *[example]: He even posted to the Canadian Super Players chat room while sitting in his high-school classroom, giving a live description of his heckling of a presentation given by a trans person.*
 ### ensign
-* *[example]: *
+* *[example]: He himself stands in the middle, holding a company flag which is similar in design to the red ensign. The red ensign was Canada’s flag until 1965 and for many on the far right, a symbol of a time when the country’s population was whiter than it is now.*
