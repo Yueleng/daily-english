@@ -287,23 +287,28 @@ most important, because of including or affecting all other areas.
 
 ### driven home
 
+### dismantle
 
-
-### dismantling
+* *verb*, to take a machine apart or to come apart into separate pieces.
 
 ### Regiment
 
+* *noun*, a large group of soldiers combining several battalions.
 * *[example]: The perils of sending racist members of the Forces into the field was starkly driven home by the scandal that led to the dismantling of the Canadian Airborne Regiment following the racist killing of a Somali man by Canadian soldiers during Canada’s deployment to Somalia in the 1990s.*
 
 ### swastika
 
+* *noun*, a symbol in the form of a cross with each of its arms bent at a 90° angle half way along, used in the 20th century as the symbol of the Nazi party.
 * *[example]: Rusty said he responded by arranging several handguns in the shape of a swastika on the Jewish soldier’s desk.*
 
 ### temerity
 
+* *noun*, a willingness to do or say something that shocks or upsets other people, audacity.
 * *[example]: He also described how he and fellow soldiers punished a female colleague for having the temerity to join the Forces: “We eventually started putting tons of pure salt in her boots.*
 
 ### corroborate
+
+* *verb*, to add proof to an account, statement, idea, etc. with new information.
 
 ### account
 
@@ -315,40 +320,51 @@ most important, because of including or affecting all other areas.
 
 ### ostensibly
 
+* *adverb*, in a way that appears or claims to be one thing when it is really something else.
 * *[example]: Both they and older members, some of whom were married, appeared to see women’s larger purpose as helping to fulfill “the 14 words,” a far-right phrase calling for the protection of the ostensibly threatened future of the white race.*
 
 ### coined
 
+* *verb*, to invent a new word or expression, or to use one in a particular way for the first time.
 * *[example]: The slogan was coined by American white supremacist David Lane, a member of the terrorist group The Order.*
 
 ### ideology
 
+* *noun*, a set of beliefs or principles, especially one on which a political system, party, or organization is based.
+
 ### unwavering
 
+* *adjective*, never changing or becoming weaker.
 * *[example]: “Hateful ideology threatens operational integrity and undermines the unwavering trust and cohesion required between our members,” he said.*
 
 ### INROADS
 
+* *plural noun*, direct and noticeable effects on something.
 * *[example]: EXPLORING CONSERVATIVE PARTY INROADS*
 
 ### vehicle
 
+* *noun*, a way of achieving, producing, or expressing something.
 * *[example]:  Their vehicle for doing so: the leadership race of the Conservative Party of Canada.*
 
 ### screening
 
+* *noun*, a test or examination to discover if there is anything wrong with someone.
 * *[example]: The first candidate they rallied behind was Kellie Leitch, who was proposing screening immigrants for cultural values.*
 
 ### stalled
 
+* *verb*, If you stall an event, you delay it or prevent it from making progress.
 * *[example]: When her leadership campaign stalled, they moved en masse to support Maxime Bernier.*
 
 ### en masse
 
+* *adverb*, If a group of people do something en masse, they do it together and at the same time.
 * *[example]: When her leadership campaign stalled, they moved en masse to support Maxime Bernier.*
 
 ### dismay
 
+* *noun*, a feeling of unhappiness and disappointment.
 * *[example]: Dank, the student teacher, even expressed dismay that he couldn’t cast more than one ballot for Mr. Bernier.*
 
 ### broader political process
@@ -357,12 +373,16 @@ most important, because of including or affecting all other areas.
 
 ### complacent
 
+* *adjective*, feeling so satisfied with your own abilities or situation that you feel you do not need to try any harder.
+
 ### virtue
 
+* *noun*, a good moral quality in a person, or the general quality of being morally good.
 * *[example]: One chat-room member, a high-school student in B.C., used a slur to describe Mr. Bernier as a puppet “designed to make Conservatives complacent over the destruction of our country by giving us a few virtue signals here and there.”*
 
 ### perks
 
+* *noun*, an advantage.
 * *[example]: One member wrote that “Bernier had perks, but I don’t think he was going to save us either. We have to work inside the party and change people one way or another.”*
 
 ### Overton window
@@ -371,28 +391,36 @@ most important, because of including or affecting all other areas.
 
 ### pry
 
+* *verb, T, MAINLY US*, to move or lift something by pressing a tool against a fixed point.
+
 ### reprehensible
 
+* *adjective*, If someone's behaviour is reprehensible, it is extremely bad or unacceptable.
 * *[example]: They reasoned that if they could pry open that window further – and push those limits to the right – their own views might not so easily be dismissed as reprehensible.*
 
 ### breakaway
 
+* *noun*, an act of separating from a group, especially because of disagreement.
 * *[example]: The record of their discussions ends before Mr. Bernier announced the launch of his breakaway People’s Party of Canada in September of 2018.*
 
 ### derided
 
+* *verb*, to laugh at someone or something in a way that shows you think they are stupid or of no value.
 * *[example]: The previous July, Mr. Strashok had derided Mr. Kenney himself.*
 
 ### cuck
 
+* *noun*, an insulting word for a weak man, used especially by people on the extreme right of politics to refer to men with politically liberal views.
 * *[example]: Under the pseudonym GuyNumber7, he called the politician “such a cuck” – a favourite alt-right slur for men deemed to lack backbone – because he had criticized Canadian neo-Nazi Paul Fromm on Twitter.*
 
 ### vetting
 
+* Vetting is the process of performing a background check on someone before offering them employment, conferring an award, or doing fact checking prior to making any decision. In addition, in intelligence gathering, assets are vetted to determine their usefulness.
 * *[example]: In the chats obtained by The Globe, GuyNumber7 also made himself out to be an important figure in the neo-Nazi movement in Calgary: He described his work “vetting” individuals who wished to join the ranks of the city’s alt-right and wrote about how he had hosted alt-right activists from elsewhere in Canada.*
 
 ### procurements
 
+* *noun*, the process of getting supplies.
 * *[example]:  He maintained an alias-free blog site where he posted about Canadian military procurements;*
 
 ### run-of-the-mill
@@ -465,7 +493,6 @@ most important, because of including or affecting all other areas.
 ### espoused
 
 * *verb*, ​to become involved with or support an activity or opinion.
-
 
 ### paralegal
 
@@ -552,11 +579,11 @@ most important, because of including or affecting all other areas.
 
 ### synagogue
 
+* *noun*, a building in which Jewish people worship and study their religion.
 * *[example]: The man accused of killing 11 people at a Pittsburgh synagogue last year had posted dozens of anti-Semitic messages on social media before delivering a final post that read, “Screw your optics, I’m going in.”*
 
 ### insidious
 
-* *noun*, a building in which Jewish people worship and study their religion.
 * *[example]: The man accused of killing 11 people at a Pittsburgh synagogue last year had posted dozens of anti-Semitic messages on social media before delivering a final post that read, “Screw your optics, I’m going in.”*
 
 ### spate
