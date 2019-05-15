@@ -606,34 +606,79 @@ most important, because of including or affecting all other areas.
 * *[example]: The man accused of killing 11 people at a Pittsburgh synagogue last year had posted dozens of anti-Semitic messages on social media before delivering a final post that read, “Screw your optics, I’m going in.”*
 
 ### spate
+
+* *noun*, a larger number of events than usual, especially unpleasant ones, happening at about the same time.
 * *[example]: In the fall of 2017, a spate of postering campaigns around the University of Toronto campus attracted attention on social media and the student press.*
+
 ### provocative
+
+* *adjective*, causing an angry reaction, usually intentionally.
 * *[example]: The posters carried a simple but provocative slogan: “It’s Okay To Be White.”*
+
 ### thoroughfare
+
+* *noun*, a main road for public use or a passage through somewhere.
 * *[example]: On Nov. 1, Orwelliandoublethink wrote, “We hit a good amount of the U of T campus on St. George,” referring to a main thoroughfare that runs through the university.*
+
 ### Marxist
+
+* *noun*, a supporter of Marxism.
 * *[example]: When someone in the chat forum asked why there were so many racists at the university, he replied, “U of T is where white men go to have their dreams crushed by a Marxist professor who is likely Jewish.”*
+
 ### foray
 
+* *noun*, a short period of time being involved in an activity that is different from and outside the range of a usual set of activities.
+
 ### averse
+
+* *adjective*, strongly disliking or opposed to.
 * *[example]: After the postering foray, members of the chat room discussed how they hoped that some people who saw the posters, and who would otherwise be averse to a white-supremacist message, might regard the five-word slogan as reasonable.*
-### inadvertently
+
+### inadvertent
+
+* *adjective*, not intentional.
 * *[example]: They talked, as well, about how they hoped the media would inadvertently spread their message.*
+
 ### plastered
+
+* *verb*, to make something stick in a flat smooth layer.
 * *[example]: Similar posters were plastered on campuses across the country, including at the University of Alberta, the University of Regina and the University of Victoria.*
-### dominoes
+
+### domino
+
+* *noun*, one of a set of small rectangular pieces of wood or plastic marked with a particular number of spots on each half of one surface, used in playing a game.
 * *[example]: Participants were excited by how their dog-whistle campaign had gained such coverage: “Bigger and bigger papers are publishing. Like dominoes. Hopefully we’re just getting started.”*
-### epithets
+
+### epithet
+
+* *noun*, an adjective added to a person's name or a phrase used instead of it, usually to criticize or praise them.
 * *[example]: Going by the pseudonym National Traditionalist, he told fellow members on the Canadian Super Players chat group that he “hated” his high school and most of his peers, using epithets to describe gay people, trans people, immigrants and refugees in his classes.*
+
 ### resented
+
+* *verb*, to feel angry because you have been forced to accept someone or something that you do not like.
 * *[example]:  He said he resented living in a multicultural society.*
+
 ### lobbyists
+
+* *noun*, someone who tries to persuade a politician or official group to do something.
 * *[example]: He blamed “Jewish lobbyists” for the decision to open Canadian immigration to “non-whites.”*
+
 ### Perversely
+
+* *adverb*, in a way that is strange and not what most people would expect or enjoy.
 * *[example]: Perversely, he claimed to enjoy reading about Indigenous people who had gone missing in places such as Winnipeg.*
+
 ### progressive politics
+
 * *[example]: Over the course of the year-long group chat, he also revealed a lot about his life. He came from a “normie liberal household” in the Vancouver neighbourhood of Kitsilano, a place known for progressive politics.*
-### heckling
+
+### heckle
+
+* *verb*, to interrupt a public speech or performance with loud, unfriendly statements or questions.
 * *[example]: He even posted to the Canadian Super Players chat room while sitting in his high-school classroom, giving a live description of his heckling of a presentation given by a trans person.*
+
 ### ensign
+
+* *noun*, a flag on a ship that shows which country the ship belongs to.
 * *[example]: He himself stands in the middle, holding a company flag which is similar in design to the red ensign. The red ensign was Canada’s flag until 1965 and for many on the far right, a symbol of a time when the country’s population was whiter than it is now.*
