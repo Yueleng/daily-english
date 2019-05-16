@@ -59,7 +59,6 @@ indirect way
 
 ### profess
 
-
 ### so long as
 
 * *[example] China used to profess no interest in how other countries run themselves, so long as it was left alone. Increasingly, however, it holds its authoritarian system up as a rival to liberal democracy.*
@@ -73,7 +72,6 @@ indirect way
 * *[example] Its “Made in China 2025” plan, for instance, sets out to use subsidies and protection to create world leaders in ten industries, including aviation, tech and energy, which together cover nearly 40% of its manufacturing.*
 
 ### blatant
-
 
 
 ### espionage
@@ -122,59 +120,198 @@ indirect way
 
 ### accommodates
 
+
 * *[example] The longer the West grudgingly accommodates China’s abuses, the more dangerous it will be to challenge them later.*
 
 ### In every sphere
 
-### edged
+* in all aspects.
 
-### cleaves
+### edge
 
+* *verb*, to move slowly with gradual movements or in gradual stages, or to make someone or something move in this way.
+
+### cleaves to sth
+
+* to stick or hold firmly onto something.
 * *[example] In every sphere, therefore, policy needs to be harder edged, even as the West cleaves to the values it claims are universal.*
 
 ### shed light on
 
+* to help to explain a situation.
 * *[example] To counter China’s sharp power, Western societies should seek to shed light on links between independent foundations, even student groups, and the Chinese state.*
 
 ### bolster
 
+* *verb*, to support or improve something or make it stronger.
 * *[example] It should bolster institutions that defend the order it is trying to preserve.*
 
+## [U.S.-China Trade Standoff May Be Initial Skirmish in Broader Economic War](https://www.nytimes.com/2019/05/11/world/asia/us-china-trade-war.html?searchResultPosition=8)
 
+### standoff
 
-Standoff
-Skirmish
-wary
-stature
-stark
-authoritarian
-erecting
-indictment
-club
-escalating
-red scare
-rolls back the levies
-uphill battle
-around the margins
-lifted
-Mar-a-Lago
-rival system
-bent
-hegemonic might
-slump
-instincts
-chart its own course
-on many fronts
-Treasury
-codify
-reminiscent
-pugilistic
-prevailing
-leaping into
-veered
-hastily
-internment
-barbed
-beholden
-hankered
-caught off guard
+* *noun*, a situation in which agreement in an argument does not seem possible.
+
+### skirmish
+
+* *noun*, a fight between a small number of soldiers that is usually short and not planned, and happens away from the main area of fighting in a war.
+* *[example]: U.S.-China Trade Standoff May Be Initial Skirmish in Broader Economic War*
+
+### wary
+
+* *adjective*, careful because you do not completely trust someone or something or are not certain about what you should do.
+* *[example]: The United States is increasingly wary of China’s emerging role in the global economy and the tactics it uses to get ahead, including state-sponsored hacking, acquisitions of high-tech companies in the United States and Europe, subsidies to crucial industries and discrimination against foreign companies.*
+
+### stature
+
+* *noun*, reputation and importance based on admirable qualities or achievements.
+* *[example]:  A yearlong trade war between the United States and China is proving to be an initial skirmish in an economic conflict that may persist for decades, as both countries battle for global dominance, stature and wealth.*
+
+### stark
+
+* *adjective*, demanding that people obey completely and refusing to allow them freedom to act as they wish.
+* *[example]: The Trump administration has begun trying to limit China’s economic influence in the United States and abroad, warning about China’s ambitions in increasingly stark terms.*
+
+### authoritarian
+
+* *adjective*, demanding that people obey completely and refusing to allow them freedom to act as they wish.
+* *[example]: Mike Pompeo, the secretary of state, compared China’s ambitions to Russia and Iran in a speech in London last Wednesday, saying Beijing poses “a new kind of challenge; an authoritarian regime that’s integrated economically into the West in ways that the Soviet Union never was.”*
+
+### erect
+
+* *verb*, to build a building, wall, or other structure:
+* *[example]: The United States has been erecting barriers to limit Chinese investment in American companies, re-examining the kinds of technology that can be exported to China and restricting China’s role in building America’s next-generation telecommunications networks, while also discouraging other countries from using Chinese equipment.*
+
+### indictment
+
+* *noun*, a formal statement of accusing someone.
+
+### evade
+
+* *verb*, to avoid or escape from someone or something.
+* *[example]:  A Justice Department initiative is targeting commercial espionage of American technology, and earlier this year the United States unveiled a sweeping indictment of the Chinese telecom giant Huawei and its chief financial officer, Meng Wanzhou, over accusations of stealing trade secrets and evading American sanctions on Iran.*
+
+### club
+
+* *noun*, a long, thin stick used in golf to hit the ball.
+
+### escalate
+
+* *verb*, to become or make something become greater or more serious.
+* *[example]: The United States is again waving the club of tariffs after misjudging China’s strength, capacity and will, further escalating trade friction between our two countries.*
+
+### red scare
+
+* *[example]: Restraining China’s ambitions and methods is a tricky task — and there is concern that the Trump administration’s effort is creating a new red scare, fueling discrimination against China and its citizens that could ultimately hurt the United States.*
+
+### levy
+
+* *noun*, an amount of money, such as a tax, that you have to pay to a government or organization.
+* *[example]: The two countries could yet come to an agreement that opens opportunities for businesses and rolls back the levies they have placed on each other.*
+
+### uphill battle
+
+* *[example]: Mr. Liu, who is leading China’s team in the trade negotiations, hinted at that uphill battle in a video statement released by the official Xinhua news agency.*
+
+### around the margins
+
+### lift
+
+* *verb*, to move something from a lower to a higher position.
+* *[example]: Instead, a trade deal between the two countries seems more likely to bring change around the margins — tens of billions of dollars of soybean purchases, some tariffs lifted and changes to the text of Chinese laws or regulations that the country might ultimately disregard, particularly once another administration occupies the White House.*
+
+### Mar-a-Lago
+
+* Mar-a-Lago (/ˌmɑːrəˈlɑːɡoʊ/) is a resort and National Historic Landmark in Palm Beach, Florida, built from 1924 to 1927 by cereal-company heiress and socialite Marjorie Merriweather Post.
+* *[example]: “This is a decades-long endeavor,” said Robert Daly, the director of the Wilson Center’s Kissinger Institute on China and the United States. “This can’t be waved away over cake at Mar-a-Lago.”*
+
+### rival system
+
+* *[example]: But it is an aggressive notion of American power to upend a rival system that has delivered prosperity for its people and put China on course to be the world’s largest economy.*
+
+### bend
+
+* *verb*, to move your body or part of your body so that it is not straight.
+
+### hegemonic might
+
+* *[example]: Many in China see the United States as a declining power bent on enforcing its will on a world that no longer cowers before its hegemonic might. *
+
+### slump
+
+* *noun*, (of prices, values, or sales) to fall suddenly:
+
+### instinct
+
+* *noun*, the way people or animals naturally react or behave, without having to think or learn about it
+
+### chart 
+
+* *verb*, to arrange a plan of action / to watch something with careful attention or to record something in detail.
+* *[example]: The troubles in American democracy and the long economic slump after 2008 persuaded many in China that its instincts to chart its own course were correct.*
+
+### on many fronts
+
+* *[example]: It has also projected power across Asia, Africa and elsewhere while the United States has, on many fronts, retreated from its post-World War II commitment to the global order.*
+
+### Treasury
+
+* *noun*, the government department, in the UK and some other countries, that is responsible for financial matters such as spending and tax.
+* *[example]: Liu He, the Chinese vice premier, in Washington with Treasury Secretary Steven Mnuchin, center, and the United States trade representative, Robert Lighthizer, right.*
+
+### codify
+
+* *verb*, to arrange something, such as laws or rules, into a system
+* *[example]: And the Chinese view some of the Trump administration’s demands as infringing on their sovereignty and giving America too much power over their economy — including requiring the country to codify changes through legislation in the National People’s Congress.*
+
+### reminiscent of sth/sb
+
+* making you remember a particular person, event, or thing.
+* *[example]: To the increasingly nationalistic public in China, the American requests are reminiscent of 19th century history of unequal treaties forced on the country by foreign powers.*
+
+### pugilistic
+
+* *adjective*, wanting to fight or to hit someone.
+* *[example]: Mr. Trump on Saturday suggested China was simply delaying a deal in the hopes that a Democrat would win election in 2020 and continued his pugilistic approach, saying “the deal will become far worse for them if it has to be negotiated in my second term. Would be wise for them to act now, but love collecting BIG TARIFFS!”*
+
+### prevailing
+
+* *adjective*, existing and accepted.
+* *[example]: That is a significant shift from the prevailing view in the United States since the death of Mao Zedong in 1976 that close economic engagement with China would produce an increasingly democratic country that would be closely tied to an international economic order founded mainly on Western liberal ideals.*
+
+### leaping into
+
+* *[example]: China has indeed grown in prosperity, leaping into the ranks of what the World Bank defines as upper-middle income countries.*
+
+### veer
+
+* *noun*, to change direction.
+* *[example]: But in the last five years, China has veered toward increasingly repressive authoritarianism at home and a rapid military buildup.*
+
+### haste
+
+* *[example]: great speed*
+
+### internment
+
+* *noun*, the act of putting someone in prison for political or military reasons, especially during a war.
+
+### barbed wire
+
+* a type of strong wire with sharp points on it, used to prevent people or animals from entering or leaving a place, especially a field.
+* *[example]: The State Department estimates that Beijing has put 800,000 to two million Muslims in hastily built internment camps ringed with barbed wire in northwestern China.*
+
+### beholden
+
+* *adjective*, feeling you have a duty to someone because they have done something for you.
+* *[example]: China is extending low-cost loans and building infrastructure around the globe through its One Belt, One Road program, which critics warn is making poorer countries beholden to China.*
+
+### hankered
+
+* *verb*, to have a strong desire for something.
+* *[example]: While American companies have long hankered for access to China’s growing market, their position has begun to shift as they see China’s practices and treatment of foreign companies.*
+
+### catch off-guard
+
+* *startle*
+* *[example]: China’s own experts say that the Beijing leadership has been caught off guard by the pace of change in American perceptions of Sino-American relations.*
