@@ -66,7 +66,6 @@
 
 * *verb*, to laugh at someone in an unkind way.
 
-
 ### poke
 
 * *verb [t]*, to push a finger or other pointed object quickly into someone or something.
@@ -97,7 +96,7 @@
 
 * *verb*, to move back because of fear or disgust (= dislike or disapproval).
 
-### curling
+### curl
 
 * *verb*, to make something into the shape of a curl, or to grow or change into this shape.
 * *[example]: When the girls laughed or turned away, Minassian would whimper and recoil, his arms curling into himself.*
@@ -278,7 +277,7 @@
 
 ### perfunctory
 
-* **adjective*, one quickly, without taking care or interest.
+* *adjective*, one quickly, without taking care or interest.
 * *[example]: Minassian usually arrived early to class, and always by himself. He hovered on the outskirts of social groups, trying to befriend others in his program by asking them perfunctory questions about where they’d completed their co-ops or how they’d done on labs and tests.*
 
 ### tit men
@@ -292,7 +291,7 @@
 
 ### nail
 
-* *verb* to do something succcessfully.
+* *verb*, to do something succcessfully.
 * *[example]: He canvassed his colleagues on how to nail interviews, asking for advice over Slack.*
 
 ### parrot
@@ -465,7 +464,6 @@
 
 * *adjective*, with little or no hair on the head.
 * *[example]: He’d taken clippers to his hair, which was shorn unevenly with erratic bald patches.*
-clamber
 
 ### clamber
 
@@ -510,7 +508,7 @@ clamber
 * *verb*, to cause something to break noisily into a lot of small pieces.
 * *[example]: He drove along the sidewalk for several blocks, plowing down poles and smashing bus shelters as passersby screamed and ran.*
 
-### swerved
+### swerve
 
 * *verb*, to turn sharply away from someone or something.
 * *[example]: Outside Mel Lastman Square, he struck another cluster of people, swerved from the sidewalk to the road and back again, then pulled a right onto Poyntz Avenue, south of Sheppard, 2.2 kilometres from where the deadly drive began.*
@@ -550,7 +548,7 @@ clamber
 
 ### lined
 
-* *verb* to form a row along the side of something.
+* *adjective*, (of the skin on the face) having lines because of age.
 
 ### sunken
 
@@ -561,7 +559,7 @@ clamber
 * *noun*, a large, angry crowd, especially one that could easily become violent.
 * *[example]: At his son’s first court appearance, Vahe, his face lined and eyes sunken, made his way through a mob of reporters shouting around his police escort.*
 
-### Detention
+### detention
 
 * *noun*, the act of officially detaining someone.
 * *[example]: Minassian is being held without bail at the Toronto South Detention Centre in Etobicoke and in November waived his right to a preliminary hearing.*
@@ -578,7 +576,7 @@ clamber
 
 ### suit
 
-* *noun*, lawsuit a problem taken to a law court by an ordinary person or an organization rather than the police in order to obtain a legal decision:
+* *noun*, lawsuit a problem taken to a law court by an ordinary person or an organization rather than the police in order to obtain a legal decision.
 * *[example]: In the months since the attack, several victims have filed civil suits against Minassian and Ryder Truck Rental.*
 
 ### spinal
@@ -599,6 +597,7 @@ clamber
 
 ### vertigo
 
+* *adjective*, ​a feeling that everything is spinning around, causing you to be unable to balance and therefore to fall.
 * *[example]: Amir Kiumarsi, a chemistry professor at Ryerson, was one of the first people struck in the attack. The incident left him with a brain injury, spinal fractures, a pulmonary embolism, memory loss, vertigo, anxiety and depression.*
 
 ### punitive
@@ -633,4 +632,4 @@ clamber
 ### shoot the shit
 
 * To chat idly about things that neither person involved in the conversation will be likely to remember.
-* *[example]: hey shot the shit like old times. Minassian told him he was bored, that there was nowhere for him to exercise.*
+* *[example]: They shot the shit like old times. Minassian told him he was bored, that there was nowhere for him to exercise.*

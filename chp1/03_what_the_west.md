@@ -8,15 +8,16 @@
 
 ### dictatorship
 
+* *noun*, a country ruled by a dictator.
 * *[example] Last weekend China stepped from autocracy into dictatorship.*
 
 ### let it be known
 
-* to give information to other people, especially in an 
-indirect way
+* to give information to other people, especially in an indirect way
 
-### conceivably
+### conceivable
 
+* *adjective*, possible to imagine or to believe.
 * *[example] That was when Xi Jinping, already the world’s most powerful man, let it be known that he will change China’s constitution so that he can rule as president for as long as he chooses—and conceivably for life.*
 
 ### wield
@@ -26,10 +27,12 @@ indirect way
 
 ### stake
 
-* *[example] Western leaders believed that giving China a stake in institutions such as the World Trade Organisation (WTO) would bind it into the rules-based system set up after the second world war (see Briefing).*
+* *noun*, a share or a financial involvement in something such as a business.
+* *[example] Western leaders believed that giving China a stake in institutions such as the World Trade Organisation (WTO) would bind it into the rules-based system set up after the second world war.*
 
 ### yearn
 
+* *verb*, to wish very strongly, especially for something that you cannot have or something that is very difficult to have.
 * *[example] They hoped that economic integration would encourage China to evolve into a market economy and that, as they grew wealthier, its people would come to yearn for democratic freedoms, rights and the rule of law.*
 
 ### rife
@@ -37,90 +40,110 @@ indirect way
 * *adjective*, If something unpleasant is rife, it is very common or happens a lot.
 * *[example] Under the leadership of Hu Jintao, you could still picture the bet paying off. When Mr Xi took power five years ago China was rife with speculation that he would move towards constitutional rule.*
 
-### shattered
+### shatter
 
+* *verb*, to end or severely damage something.
 * *[example] Today the illusion has been shattered. In reality, Mr Xi has steered politics and economics towards repression, state control and confrontation.*
 
-### hail
+### purge
 
-* *[example] All hail, Xi Dada*
-
-### purged
-
+* *verb*, to get rid of people from an organization because you do not agree with them.
 * *[example] As part of a campaign against corruption, he has purged potential rivals.*
 
 ### sweeping
 
+* *adjective*, having great effect or range.
 * *[example] He has executed a sweeping reorganisation of the People’s Liberation Army (PLA), partly to ensure its loyalty to the party, and to him personally.*
 
 ### deviance
 
+* *noun*, The fact or state of diverging from usual or accepted standards, especially in social or sexual behaviour.
 * *[example] Though people’s personal lives remain relatively free, he is creating a surveillance state to monitor discontent and deviance.*
 
 ### profess
 
+* *verb*, to state something, sometimes in a way that is not sincere.
+
 ### so long as
 
+* during and up to the end of the time that : WHILE
 * *[example] China used to profess no interest in how other countries run themselves, so long as it was left alone. Increasingly, however, it holds its authoritarian system up as a rival to liberal democracy.*
 
 ### course
 
+* *noun*, the often gradual development of something, or the way something happens, or a way of doing something.
 * *[example] Yet China is not a market economy and, on its present course, never will be. Instead, it increasingly controls business as an arm of state power.*
 
-### subsidies
+### subsidy
 
+* *noun*, money given as part of the cost of something, to help or encourage it to happen.
 * *[example] Its “Made in China 2025” plan, for instance, sets out to use subsidies and protection to create world leaders in ten industries, including aviation, tech and energy, which together cover nearly 40% of its manufacturing.*
 
 ### blatant
 
+* *adjective*, very obvious and intentional, when this is a bad thing.
 
 ### espionage
 
+* *noun*, the discovering of secrets, especially political or military information of another country or the industrial information of a business.
 * *[example] Although China has become less blatant about industrial espionage, Western companies still complain of state-sponsored raids on their intellectual property.*
 
-### dwarfing
+### dwarf
 
+* *verb*, ​If one thing dwarfs another, it makes it seem small by comparison.
 * *[example] Take the Belt and Road Initiative, which promises to invest over $1tn in markets abroad, ultimately dwarfing the Marshall plan.*
 
 ### frustrate
 
+* *verb*, to make someone feel annoyed or less confident because they cannot achieve what they want.
 * *[example] The initiative asks countries to accept Chinese-based dispute-resolution. Should today’s Western norms frustrate Chinese ambition, this mechanism could become an alternative.*
 
 ### grovelling
 
+* *adjective*, Acting obsequiously in order to obtain forgiveness or favour.
 * *[example] It seeks to punish firms directly, as when Mercedes-Benz, a German carmaker, was recently obliged to issue a grovelling apology after unthinkingly quoting the Dalai Lama online.*
 
 ### clout
 
+* *noun*, power and influence over other people or events.
 * *[example] As China’s economic clout grows, so could this sort of pressure.*
 
-### islets
+### islet
 
+* *noun*, a small island.
 * *[example] As with Scarborough Shoal, China has seized and built on a number of reefs and islets.*
 
 ### resolve
 
+* *noun*, strong determination.
 * *[example] The PLA still could not defeat America in a fight, but power is about resolve as well as strength.*
 
 ### smacks
 
+* *verb*, to hit someone or something forcefully with the flat inside part of your hand, producing a short, loud noise, especially as a way of punishing a child.
+
 ### unilateralism
 
+* *noun*, the process or fact of deciding a policy or action without involving another group or country.
 * *[example] And, however much Mr Trump protests, his promise to “Make America Great Again” smacks of a retreat into unilateralism that can only strengthen China’s hand.*
 
 ### recast
 
+* *verb*, to change the form of something, or to change an actor in a play or film. 
 * *[example] Instead Mr Trump needs to recast the range of China policy.*
 
-### Putting up with
+### put up with
 
+* to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly.
 * *[example] Putting up with misbehaviour today in the hope that engagement will make China better tomorrow does not make sense.*
 
 ### grudgingly
 
-### accommodates
+* *adverb*, unwillingly.
 
+### accommodate
 
+* *verb*, to give what is needed to someone.
 * *[example] The longer the West grudgingly accommodates China’s abuses, the more dangerous it will be to challenge them later.*
 
 ### In every sphere
@@ -169,7 +192,7 @@ indirect way
 
 ### stark
 
-* *adjective*, demanding that people obey completely and refusing to allow them freedom to act as they wish.
+* *adjective*, empty, simple, or obvious, especially without decoration or anything that is not necessary.
 * *[example]: The Trump administration has begun trying to limit China’s economic influence in the United States and abroad, warning about China’s ambitions in increasingly stark terms.*
 
 ### authoritarian
@@ -233,9 +256,14 @@ indirect way
 
 * *verb*, to move your body or part of your body so that it is not straight.
 
-### hegemonic might
+### hegemonic 
 
-* *[example]: Many in China see the United States as a declining power bent on enforcing its will on a world that no longer cowers before its hegemonic might. *
+* *adjective*, strong and powerful and therefore able to control others, or relating to the idea that a country is like this.
+
+### might
+
+* *noun*, greate power.
+* *[example]: Many in China see the United States as a declining power bent on enforcing its will on a world that no longer cowers before its hegemonic might.*
 
 ### slump
 
@@ -279,18 +307,18 @@ indirect way
 * *adjective*, existing and accepted.
 * *[example]: That is a significant shift from the prevailing view in the United States since the death of Mao Zedong in 1976 that close economic engagement with China would produce an increasingly democratic country that would be closely tied to an international economic order founded mainly on Western liberal ideals.*
 
-### leaping into
+### leap into
 
 * *[example]: China has indeed grown in prosperity, leaping into the ranks of what the World Bank defines as upper-middle income countries.*
 
 ### veer
 
-* *noun*, to change direction.
+* *verb*, to change direction.
 * *[example]: But in the last five years, China has veered toward increasingly repressive authoritarianism at home and a rapid military buildup.*
 
 ### haste
 
-* *[example]: great speed*
+* *noun*, great speed*
 
 ### internment
 
