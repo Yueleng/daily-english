@@ -432,7 +432,7 @@ most important, because of including or affecting all other areas.
 
 * *verb*, to break, or cause something to break, into small pieces.
 
-### Ventures
+### Venture
 
 * *noun*, a new business activity.
 
