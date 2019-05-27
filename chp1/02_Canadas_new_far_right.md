@@ -639,7 +639,7 @@ most important, because of including or affecting all other areas.
 * *adjective*, not intentional.
 * *[example]: They talked, as well, about how they hoped the media would inadvertently spread their message.*
 
-### plastered
+### plaster
 
 * *verb*, to make something stick in a flat smooth layer.
 * *[example]: Similar posters were plastered on campuses across the country, including at the University of Alberta, the University of Regina and the University of Victoria.*
