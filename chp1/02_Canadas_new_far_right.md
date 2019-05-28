@@ -446,7 +446,7 @@ most important, because of including or affecting all other areas.
 * *verb*, to advertise, talk about, or praise something or someone repeatedly, especially as a way of encouraging people to like, accept, or buy something.
 * *[example]: Mr. Strashok, whose LinkedIn profile touted his political-organizing experience, was eventually denounced by Mr. Kenney and expelled from the party after his online activity was exposed.*
 
-### gripes
+### gripe
 
 * *noun*, a strong complaint.
 * *[example]: Even as they shared prejudices, gripes, conspiracy theories and dark strategies, most of the chat-group members had never met in person.*

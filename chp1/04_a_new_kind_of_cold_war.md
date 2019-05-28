@@ -348,7 +348,6 @@ For years scholars like him have been trying, as Deng did, to devise ways of rec
 in any dispute
 
 So why has he done this? He could have stayed on as general secretary. His ideology, called “Xi Jinping Thought for a New Era”, would still have been in the party’s own charter, giving him the status of final arbiter in any dispute.
-get to grips
 
 grip
 control over something or someone:

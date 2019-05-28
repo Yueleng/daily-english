@@ -120,7 +120,7 @@ emphatic
 done or said in a strong way and without any doubt:
 A senior American official says that China “emphatically” lied when it promised Mr Obama in 2015 that state-backed actors would stop spying on America for commercial gain.
 
-laments
+lament
 to express sadness and feeling sorry about something:
 
 frenzied
@@ -140,7 +140,7 @@ Now at Stanford University, he describes commanders grappling with the end of ov
 
 ## [In Washington, talk of a China threat cuts across the political divide](https://www.economist.com/special-report/2019/05/18/in-washington-talk-of-a-china-threat-cuts-across-the-political-divide)
 
-cut accross
+cut across
 to include within the scope of effect or significance
 In Washington, talk of a China threat cuts across the political divide
 
@@ -270,8 +270,11 @@ cadres
 a small group of trained people who form the basic unit of a military, political, or business organization
 But some cadres and scholars known to brief government and party bosses do speak off the record.
 
-grandees
+grandee
 an important person, especially in a particular job or area of public life
+
+candid
+truthful and honest
 Leaders are selectively candid with foreign counterparts, and maintain ties to retired Western grandees.
 
 livid
@@ -285,3 +288,168 @@ But it is also a reason for indignation at what is called an American policy of 
 humbling
 The humbling of imperial China by smaller European powers proves that.
 
+cynical
+believing that people are only interested in themselves and are not sincere:
+Depressingly, the argument that follows is a cynical one about the relative strengths of China, America and Canada.
+
+sidestepping 
+to step to the side in order to avoid something, especially being hit:
+It is rarely about the details of the legal case against Ms Meng, arrested at the request of American prosecutors, who accuse her of sidestepping sanctions against Iran.
+
+ensue
+to happen after something else, esp. as a result of it:
+Pro-China protests have ensued in Canada and Hong Kong (pictured).
+
+impertinence 
+rude and not showing respect, especially towards someone older or in a higher position than you:
+But in private, when officials protest about America’s insistence on sending warships and planes through those disputed waters, the complaint is that America is showing disrespect, and would never tolerate such impertinence in its own backyard.
+
+barons
+an extremely powerful person in a particular area of business:
+In meetings with central-government leaders, Western bosses would talk up their positive experiences, both out of caution and because they saw little point in raising problems caused by powerful provincial and local barons, knowing that the central government might simply ask those barons to investigate themselves.
+
+mum
+to say nothing about a subject:
+Having stayed mum in China, American businesses would grumble to their own government, which would take their complaints to the Chinese. 
+
+gloat
+to feel or express great pleasure or satisfaction because of your own success or good luck, or someone else's failure or bad luck:
+Another generation of high-flying, middle-aged officials is more inclined to gloat.
+
+sniff
+to smell something by taking air in through your nose:
+Mr Trump’s diagnosis of America’s ills is quite correct, they sniff.
+
+meritocratic 
+relating to a meritocracy (= a social system in which people's success or power is related to their abilities):
+
+pragmatic
+solving problems in a sensible way that suits the conditions that really exist now, rather than obeying fixed theories, ideas, or rules:
+The most candid voices admit that China got Mr Trump wrong, at first thinking him a pragmatic New York businessman in the mould of others they have known.
+
+bluster
+talk intended to seem important or threatening but which is not taken seriously and has little effect:
+
+theatre
+behaviour that is not sincere and is intended just to produce a particular effect or to attract attention:
+Mr Trump’s escalation of the trade fight shocked Chinese leaders, who assured visiting Western leaders in spring 2018 that his bluster was theatre, and that both sides had too much to lose for a real trade war to start.
+
+pugnacious
+wanting to start an argument or fight, or expressing an argument or opinion very forcefully:
+This involved reformist Chinese scholars discreetly welcoming Mr Trump’s pugnacious ways.
+
+statist
+supporting or based on the principle of statism(the principle that the government should own or control most of a country's industry and economy)
+Some call him a statist who does not understand economics. 
+
+rhetoric
+speech or writing intended to be effective and influence people.
+
+bungle
+to do something wrong, in a careless or stupid way
+Others blame his assertive rhetoric about China’s rise for a backlash abroad, and say he has bungled the American trade war.
+
+deplore 
+to say or think that something is very bad:
+The puzzle is to know whether such Beijing grumblers matter more or less than the American establishment grandees who deplore Mr Trump at dinner parties in Washington, DC.
+
+grip
+
+* *verb*, to hold very tightly.
+* *[example]: Bonnie Glaser, a well-connected China specialist at the Centre for Strategic and International Studies, a Washington think-tank, recently reported that the upper ranks of the People’s Liberation Army are gripped by fear, amid a sense that an anti-corruption drive ordered by Mr Xi has gone too far.*
+
+exasperate
+to make someone very annoyed, usually when they can do nothing to solve a problem
+Mr Xi has told foreign visitors that he is exasperated by American inconstancy.
+
+accord
+(a formal) agreement:
+He also pointed out that Mr Obama had persuaded him to join the Paris accord on climate change, only for Mr Trump to pull America out.
+
+enmity
+a feeling of hate.
+Chinese officials still go out of their way to note that America is a much stronger and richer country whose enmity they do not seek.
+
+## [Why Iowa is Xi Jinping’s favourite corner of America](https://www.economist.com/special-report/2019/05/16/why-iowa-is-xi-jinpings-favourite-corner-of-america)
+
+trek
+to walk a long distance, usually over land such as hills, mountains, or forests:
+Thousands of Chinese visitors have trekked to his farm in Iowa, many eager to be photographed on the John Deere tractor on which their leader sat.
+
+tractor
+a motor vehicle with large back wheels and thick tyres, used on farms for pulling machinery
+Thousands of Chinese visitors have trekked to his farm in Iowa, many eager to be photographed on the John Deere tractor on which their leader sat.
+
+delegation
+a group of delegates:
+Mr Xi’s first visit to Iowa was in 1985, as leader of a five-man agricultural delegation.
+
+hog
+a pig, especially one that is allowed to grow large so that it can be eaten
+He ate roast hog and went on a cruise on the Mississippi River.
+
+Unbeknown
+
+* *adjective*, without the knowledge of (someone).
+Unbeknown to his hosts, young Mr Xi (pictured) was party secretary of a county in Hebei and son of a member of China’s politburo, Xi Zhongxun, who had visited Iowa in 1980.
+
+enthuse
+to express excitement about something or great interest in it.
+“For me, you are America,” Mr Xi enthused.
+
+duly
+in the correct way or at the correct time; as expected:
+
+amity
+a good relationship:
+China has duly showered Iowa with demonstrations of amity.
+
+convertible
+a car with a soft roof that can be folded back.
+Sarah Lande (pictured) helped to organise Mr Xi’s visit in 1985, giving him a lift in her red convertible (she regrets declining his request to drive it).
+
+broadbrush
+lacking in detail and subtlety.
+If a young Chinese official were to visit today, she is not sure his delegation would get the same sort of welcome: “What we show them might be a bit broad-brush now.”
+
+[Ordinary Americans and Chinese seem to be drifting apart](https://www.economist.com/special-report/2019/05/16/ordinary-americans-and-chinese-seem-to-be-drifting-apart)
+
+drift apart
+If two people drift apart, they gradually become less friendly and their relationship ends.
+Ordinary Americans and Chinese seem to be drifting apart
+
+nanny
+a woman whose job is to take care of a particular family's children
+The daughter of Ivanka Trump and Jared Kushner learned her language skills from a nanny and at a private school.
+
+wrestle with something
+to try to solve a difficult problem or make a difficult decision.
+A survey in 2017 by American Councils for International Education estimated that 227,000 school-age Americans regularly wrestle with Chinese tones and radicals. 
+
+outlandish
+strange and unusual and difficult to accept or like:
+At roughly the same time 363,000 students from China were hosted by American colleges and schools. Those numbers make talk of a cold war seems outlandish.
+
+guardrails 
+a bar along the edge of something steep, such as stairs or a cliff, to prevent people from falling off
+Beyond trade, people-to-people exchanges look like sturdy guardrails to keep relations on track. 
+
+Alas
+
+* *adverb*, used to express sadness or feeling sorry about something.
+Alas, those guardrails are weaker than they may appear.
+
+leaflet
+a piece of paper that gives you information or advertises something.
+The American embassy in Beijing has begun issuing leaflets to Chinese students who are granted American visas urging them to “learn with an open mind”, and enjoy the free thinking and debate of college life.
+
+harassment
+behaviour that annoys or upsets someone.
+The State Department recently ceased funding a network of American Cultural Centres at Chinese universities in the face of official harassment—including an episode in which Terry Branstad, America’s ambassador, was denied access to one funded by his own embassy.
+
+xenophobia
+extreme dislike or fear of foreigners, their customs, their religions, etc.
+
+squeamish
+easily upset or shocked by things that you find unpleasant or that you do not approve of:
+In these populist times, others may feel less squeamish.
