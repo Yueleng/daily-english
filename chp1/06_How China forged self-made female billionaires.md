@@ -69,3 +69,45 @@ In its most recent funding round, backers of Oura, the Finnish maker of the high
 infrared
 cryotherapy
 The ring’s most famous user is Jack Dorsey, the boss of Twitter, whose unusual wellness regime—which also incorporates near-infrared saunas, radiation-blocking Faraday tents, fasting and cryotherapy—prompted the New York Times this month to dub him “Gwyneth Paltrow for Silicon Valley”.
+
+mattress-chillers
+As well as electric blankets and mattress-chillers, sound machines and smart rings, there are also smart pillows, sleep-tracking watches and bracelets, intelligent sleep masks, brain-stimulating headbands, bedside sleep sensors and countless sleep-monitoring apps
+
+household 
+Big companies in the field include household names such as Apple, Bose, Nokia and Philips. 
+
+back-ordered
+After Mr Dorsey’s enthusiastic endorsement, the Oura rings are back-ordered by four to six weeks.
+
+mania 
+The mania for sleep technology makes perfect sense for the tech industry, combining as it does several existing trends.
+
+guru
+As those in the startup world like to say, channelling Peter Drucker, a management guru, “what’s measured improves.”
+
+fastidious
+This ranges from wearing the same clothes every day, Steve Jobs-style (thus avoiding wasting time deciding what to put on), to fastidious fitness routines and complicated diets.
+
+wimp
+Relentlessly pursuing productivity only while you are awake is for wimps.
+
+hype
+Never mind that a study published in 2015, by researchers at Massachusetts General Hospital and Harvard Medical School, found that sleep-tracking devices could not accurately measure sleep, and that claims made about them were long on hype and short on solid evidence.
+
+dodgy 
+Ignore the fact that another study, published in 2017 by researchers at two medical schools in Chicago, warned of the dangers of “orthosomnia”, defined as a “perfectionistic quest for the ideal sleep in order to optimise daytime function”, as obsessive users of sleep-tech devices self-diagnose sleep disturbances based on dodgy data, or stay awake all night worrying that they are falling behind by not sleeping as efficiently as rivals.
+
+clog
+Are the streets of your city clogged with Ubers? Try an electric scooter instead.
+
+deprivation
+Seen this way, the embrace of sleep-tracking is an indictment of the whole culture: it tackles the symptoms of sleep deprivation, but not the disease.
+
+batty
+But resist the temptation to dismiss all this as batty.
+
+bats an eyelid
+Now fitness trackers (including the Apple Watch) are mainstream and nobody bats an eyelid when people share details of their morning runs on Facebook.
+
+hail
+A series of previous examples—including the use of email, the embrace of online shopping, hailing a car with an app, or renting a room in an unfamiliar city from a complete stranger—are a reminder that the seemingly crazy things that Silicon Valley types do today, everyone else may end up doing in a decade’s time. In this case, in their sleep.

@@ -66,7 +66,7 @@
 
 ### so long as
 
-* during and up to the end of the time that : WHILE
+* ‘provided that’, ‘providing that’ or ‘on condition that’.
 * *[example] China used to profess no interest in how other countries run themselves, so long as it was left alone. Increasingly, however, it holds its authoritarian system up as a rival to liberal democracy.*
 
 ### course
@@ -129,7 +129,7 @@
 
 ### recast
 
-* *verb*, to change the form of something, or to change an actor in a play or film. 
+* *verb*, to change the form of something, or to change an actor in a play or film.
 * *[example] Instead Mr Trump needs to recast the range of China policy.*
 
 ### put up with
@@ -202,7 +202,7 @@
 
 ### erect
 
-* *verb*, to build a building, wall, or other structure:
+* *verb*, to build a building, wall, or other structure.
 * *[example]: The United States has been erecting barriers to limit Chinese investment in American companies, re-examining the kinds of technology that can be exported to China and restricting China’s role in building America’s next-generation telecommunications networks, while also discouraging other countries from using Chinese equipment.*
 
 ### indictment
@@ -238,6 +238,8 @@
 
 ### around the margins
 
+* Existing at the periphery of a larger group, receiving less or little attention compared to the majority.
+
 ### lift
 
 * *verb*, to move something from a lower to a higher position.
@@ -252,9 +254,9 @@
 
 * *[example]: But it is an aggressive notion of American power to upend a rival system that has delivered prosperity for its people and put China on course to be the world’s largest economy.*
 
-### bend
+### bent
 
-* *verb*, to move your body or part of your body so that it is not straight.
+* *adjective*, strongly inclined.
 
 ### hegemonic 
 
@@ -273,7 +275,7 @@
 
 * *noun*, the way people or animals naturally react or behave, without having to think or learn about it
 
-### chart 
+### chart
 
 * *verb*, to arrange a plan of action / to watch something with careful attention or to record something in detail.
 * *[example]: The troubles in American democracy and the long economic slump after 2008 persuaded many in China that its instincts to chart its own course were correct.*
@@ -281,6 +283,10 @@
 ### on many fronts
 
 * *[example]: It has also projected power across Asia, Africa and elsewhere while the United States has, on many fronts, retreated from its post-World War II commitment to the global order.*
+
+### premier
+
+* *noun*, In many nations, "premier" is used interchangeably with "prime minister".
 
 ### Treasury
 
@@ -318,7 +324,7 @@
 
 ### haste
 
-* *noun*, great speed*
+* *noun*, great speed
 
 ### internment
 
@@ -334,7 +340,7 @@
 * *adjective*, feeling you have a duty to someone because they have done something for you.
 * *[example]: China is extending low-cost loans and building infrastructure around the globe through its One Belt, One Road program, which critics warn is making poorer countries beholden to China.*
 
-### hankered
+### hanker
 
 * *verb*, to have a strong desire for something.
 * *[example]: While American companies have long hankered for access to China’s growing market, their position has begun to shift as they see China’s practices and treatment of foreign companies.*
