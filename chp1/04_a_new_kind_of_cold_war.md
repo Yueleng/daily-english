@@ -158,21 +158,21 @@
 ### ensnare
 
 * *verb*, to catch or get control of something or someone
-* Two decisions could ensnare other Chinese technology firms
+* *[example]: Two decisions could ensnare other Chinese technology firms*
 
-### mooted
+### moot
 
 * *verb*, to suggest something for discussion.
 
 ### spooks
 
 * *noun*, a spy.
-* Some may have wondered why it took so long. An American prohibition against the use of equipment made by Huawei had long been mooted, out of fear that China’s spooks could use it to spy on its geopolitical rival.
+* *[example]: Some may have wondered why it took so long. An American prohibition against the use of equipment made by Huawei had long been mooted, out of fear that China’s spooks could use it to spy on its geopolitical rival.*
 
 ### renounce
 
 * *verb*, to say formally or publicly that you no longer own, support, believe in, or have a connection with something.
-* Big American mobile operators have already renounced the use of its gear for their fifth-generation (5G) networks.
+* *[example]: Big American mobile operators have already renounced the use of its gear for their fifth-generation (5G) networks.*
 
 ### browbeat
 
@@ -181,67 +181,67 @@
 ### forswearing
 
 * *verb*, to make a serious decision to stop doing something.
-* The administration of Donald Trump has attempted to browbeat Western allies into forswearing Huawei too; imposing a ban of its own was expected to help with the cajoling.
+* *[example]: The administration of Donald Trump has attempted to browbeat Western allies into forswearing Huawei too; imposing a ban of its own was expected to help with the cajoling.*
 
 ### woolly
 
 * *adjective*, Woolly ideas and thinking are confused and not clear, and have not been considered carefully enough.
-* Some of the ban’s woolliest bits—who counts as a foreign adversary, for instance—should be clarified with the help of American spies within the next 150 days
+* *[example]: Some of the ban’s woolliest bits—who counts as a foreign adversary, for instance—should be clarified with the help of American spies within the next 150 days.*
 
 ### interdiction
 
-* *noun*, the act of stopping something or of not allowing something, or an occasion when this happens
-* Samm Sacks of New America, a think-tank in Washington, DC, says that this direct interdiction is “a complete shock”.
+* *noun*, the act of stopping something or of not allowing something, or an occasion when this happens.
+* *[example]: Samm Sacks of New America, a think-tank in Washington, DC, says that this direct interdiction is “a complete shock”.*
 
 ### blanket ban/rule/statement
 
 * *noun*, a statement, rule etc that affects everyone or includes all possible cases
-* Those who doubt, for now, that a blanket American ban is inevitable say its intent is to make Huawei’s kit look like a less dependable option to service providers elsewhere.
+* *[example]: Those who doubt, for now, that a blanket American ban is inevitable say its intent is to make Huawei’s kit look like a less dependable option to service providers elsewhere.*
 
 ### stockpile
 
 * *verb*, to store a large supply of something for future use.
-* Reports emerged earlier this year of international telecoms carriers stockpiling equipment, as fears of an American ban grew.
+* *[example]: Reports emerged earlier this year of international telecoms carriers stockpiling equipment, as fears of an American ban grew.*
 
 ### crippling
 
-* *adjective*, causing serious injuries or harm:
-* When ZTE was banned in April 2018, the effect was crippling.
+* *adjective*, causing serious injuries or harm.
+* *[example]: When ZTE was banned in April 2018, the effect was crippling.*
 
 ### reprieve
 
 * *noun*, an official order that stops or delays the punishment, especially by death, of a prisoner:
-In barely three months the ban brought the company to the brink of bankruptcy, before it earned a reprieve from Mr Trump, after a personal appeal from China’s president, Xi Jinping.
+* *[example]: In barely three months the ban brought the company to the brink of bankruptcy, before it earned a reprieve from Mr Trump, after a personal appeal from China’s president, Xi Jinping.*
 
 ### flirt with
 
 * To come very close to some outcome or result, often (though not always) a very bad one.
-* Few observers expect Huawei to flirt with bankruptcy in the way ZTE has.
+* *[example]: Few observers expect Huawei to flirt with bankruptcy in the way ZTE has.*
 
 ### sway
 
 * *verb*, to persuade someone to believe or do one thing rather than another.
-* Although its HiSilicon unit designs some of its chips in-house, the company outsources their manufacturing to Taiwan Semiconductor Manufacturing Company, a giant chipmaker, which could be swayed by the Americans.
+* *[example]: Although its HiSilicon unit designs some of its chips in-house, the company outsources their manufacturing to Taiwan Semiconductor Manufacturing Company, a giant chipmaker, which could be swayed by the Americans.*
 
 ### bargaining chip
 
 * a potential concession or other factor which can be used to advantage in negotiations.
-* Coming amid an intensifying trade war between America and China—and given the ZTE precedent—the ban on Huawei may also be a bargaining chip in talks.
+* *[example]: Coming amid an intensifying trade war between America and China—and given the ZTE precedent—the ban on Huawei may also be a bargaining chip in talks.*
 
 ### recalcitrant
 
 * *adjective*, (of a person) unwilling to obey orders or to do what should be done, or (of an animal) refusing to be controlled.
-* At a minimum, it will be used as one with recalcitrant European allies.
+* *[example]: At a minimum, it will be used as one with recalcitrant European allies.*
 
 ### hash out something
 
 * to talk about something with someone else in order to reach agreement about it.
-* But as officials hash out the scope of Mr Trump’s executive order, more than just the usual suspects could find themselves ensnared.
+* *[example]: But as officials hash out the scope of Mr Trump’s executive order, more than just the usual suspects could find themselves ensnared.*
 
 ### discretionary
 
 * *adjective*, available to someone by choice, without having to get permission or authority.
-Ms Sacks says that it could become a “discretionary tool” for America to use against Chinese companies as it sees fit—including against perceived risks to the country’s entire digital infrastructure.
+* *[example]: Ms Sacks says that it could become a “discretionary tool” for America to use against Chinese companies as it sees fit—including against perceived risks to the country’s entire digital infrastructure.*
 
 ## [Xi Jinping decides to abolish presidential term limits](https://www.economist.com/china/2018/03/01/xi-jinping-decides-to-abolish-presidential-term-limits)
 
@@ -253,131 +253,159 @@ Ms Sacks says that it could become a “discretionary tool” for America to use
 ### ingenuity
 
 * *noun*, the skill of thinking, performing, or using things in new ways, esp. to solve problems:
-Bloggers in China surpassed themselves in their ingenuity after the Communist Party announced its plan to get rid of presidential term limits, which would have required Xi Jinping to step down as head of state in 2023.
+* *[example]: Bloggers in China surpassed themselves in their ingenuity after the Communist Party announced its plan to get rid of presidential term limits, which would have required Xi Jinping to step down as head of state in 2023.*
 
 ### portly
 
 * *adjective*, (especially of middle-aged or old men) fat and round:
-* The Bear of Very Little Brain is used in China as code for the portly Mr Xi—the post was swiftly deleted by humourless censors.
+* *[example]: The Bear of Very Little Brain is used in China as code for the portly Mr Xi—the post was swiftly deleted by humourless censors.*
 
 ### solemnly
 
 * *adverb*, serious and without any humour.
-* The manufacturer solemnly informed readers that these were fakes.
+* *[example]: The manufacturer solemnly informed readers that these were fakes.*
 
 ### warlord
 
-* *noun*, a military leader who controls a country or, more often, an area within a country
-“Yuan Shikai”, an early 20th-century warlord who declared himself emperor and died six months later.
+* *noun*, a military leader who controls a country or, more often, an area within a country.
+* *[example]: “Yuan Shikai”, an early 20th-century warlord who declared himself emperor and died six months later.*
 
 ### dissent
-a strong difference of opinion on a particular subject, especially about an official suggestion or plan or a popular belief:
-There was also some unusual open dissent. 
+
+* *noun*, a strong difference of opinion on a particular subject, especially about an official suggestion or plan or a popular belief.
+* *[example]: There was also some unusual open dissent.*
 
 ### scrape
-to remove an unwanted covering or a top layer from something, especially using a sharp edge or something rough:
-Many Chinese, it seems, regard scrapping term limits as a return to the bad old days of strongman rule.
+
+* *verb*, to remove an unwanted covering or a top layer from something, especially using a sharp edge or something rough.
+* *[example]: Many Chinese, it seems, regard scrapping term limits as a return to the bad old days of strongman rule.*
 
 ### rubber-stamp
-a small device with raised letters made of rubber, used for printing the date, name of an organization, etc. on documents
+
+* a small device with raised letters made of rubber, used for printing the date, name of an organization, etc. on documents
 to officially approve a decision or plan without thinking about it:
-Such limits may not matter much in themselves (they will be formally abolished at an annual session of the rubber-stamp parliament, which starts on March 5th).
+* *[example]: Such limits may not matter much in themselves (they will be formally abolished at an annual session of the rubber-stamp parliament, which starts on March 5th).*
 
 ### pierce
-to go into or through something, making a hole in it using a sharp point:
-It also pierces the veil of politics and shows what kind of ruler he wants to be.
+
+* *verb*, to go into or through something, making a hole in it using a sharp point:
+* *[example]: It also pierces the veil of politics and shows what kind of ruler he wants to be.*
 
 ### opaque
-preventing light from travelling through, and therefore not transparent or translucent.
+
+* *adjective*, preventing light from travelling through, and therefore not transparent or translucent.
 
 ### treacherous
-If the ground or sea is treacherous, it is extremely dangerous, especially because of bad weather conditions:
-At a time when he is trying to boost China’s image globally as a modern, outward-looking and responsible state, the political system he governs seems premodern, opaque and treacherous.
+
+* *adjective*, If the ground or sea is treacherous, it is extremely dangerous, especially because of bad weather conditions:
+* *[example]: At a time when he is trying to boost China’s image globally as a modern, outward-looking and responsible state, the political system he governs seems premodern, opaque and treacherous.*
 
 ### the Politburo
-the main government group in a Communist country, which makes all the important decisions
 
+* the main government group in a Communist country, which makes all the important decisions.
 
 ### inner sanctum
-a private place or room where someone is never interrupted
-In China, they are not even in the top 25. Neither man is a member of the Politburo, let alone its inner sanctum, the Politburo Standing Committee.
+
+* a private place or room where someone is never interrupted
+* *[example]: In China, they are not even in the top 25. Neither man is a member of the Politburo, let alone its inner sanctum, the Politburo Standing Committee.*
 
 ### Leninist
-someone who believes in the social, political, and economic principles and theories developed from Marxism by the Russian politician V. I. Lenin, supporting direct rule by workers:
+
+* *noun*, someone who believes in the social, political, and economic principles and theories developed from Marxism by the Russian politician V. I. Lenin, supporting direct rule by workers
 
 ### bedevil
-to confuse, annoy, or cause problems or difficulties for someone or something:
-As with other Leninist systems, it is bedevilled by the problem of leadership succession.
+
+* *verb*, to confuse, annoy, or cause problems or difficulties for someone or something:
+* *[example]: As with other Leninist systems, it is bedevilled by the problem of leadership succession.*
 
 ### precedent
-the way that something has been done in the past that therefore shows that it is the correct way.
-In the 1980s, reacting to the chaos of the Mao era, Deng Xiaoping tried to make the system more orderly and predictable by introducing new rules, norms and precedents.
 
+* *noun*, the way that something has been done in the past that therefore shows that it is the correct way.
+* *[example]: In the 1980s, reacting to the chaos of the Mao era, Deng Xiaoping tried to make the system more orderly and predictable by introducing new rules, norms and precedents.*
 
 ### reinstitute
-to institute (something) again
-These included the reinstitution of the post of president (there had not been one since 1968), along with a two-term limit for the holder of that office as well as the vice-president.
+
+* *verb*, to institute (to originate and get established : ORGANIZE) something again
+* *[example]: These included the reinstitution of the post of president (there had not been one since 1968), along with a two-term limit for the holder of that office as well as the vice-president.*
 
 ### rein
-to control or direct with or as if with reins
-As the abolition of term limits shows, he failed—or at least, his reforms failed to rein in Mr Xi.
+
+* *verb*, to control or direct with or as if with reins
+* *[example]: As the abolition of term limits shows, he failed—or at least, his reforms failed to rein in Mr Xi.*
 
 ### cast aside
-Now he has cast aside Deng’s efforts to introduce a system of succession by timetable.
+
+* discard or reject.
+* *[example]: Now he has cast aside Deng’s efforts to introduce a system of succession by timetable.*
 
 ### anti-graft
-opposed to or designed to reduce corruption.
+
+* opposed to or designed to reduce corruption.
 
 ### rid
-Mr Xi has used his anti-graft campaign to rid himself of other rivals—most recently Sun Zhengcai, who was party chief of the south-western region of Chongqing, the same job that Mr Bo had held.
 
+* *verb*, make someone or something free of (a troublesome or unwanted person or thing).
+* *[example]: Mr Xi has used his anti-graft campaign to rid himself of other rivals—most recently Sun Zhengcai, who was party chief of the south-western region of Chongqing, the same job that Mr Bo had held.*
 
 ### murky
-The events leading up to the removal of term limits show how murky politics remains.
+
+* *adjective*, dark and gloomy, especially due to thick mist.
+* *[example]: The events leading up to the removal of term limits show how murky politics remains.*
 
 ### odd
-somewhat more than the indicated approximate quantity, extent, or degree —usually used in combination
-The proposal came from the party’s Central Committee, comprising its most senior 200-odd officials.
+
+* *suffix*, somewhat more than the indicated approximate quantity, extent, or degree —usually used in combination
+* *[example]: The proposal came from the party’s Central Committee, comprising its most senior 200-odd officials.*
 
 ### communique
-an official piece of news or an announcement, especially to the public or newspapers:
-That meeting produced a communiqué about constitutional reform, which did not mention that term limits had been discussed.
+
+* *noun*, an official piece of news or an announcement, especially to the public or newspapers:
+* *[example]: That meeting produced a communiqué about constitutional reform, which did not mention that term limits had been discussed.*
 
 ### heads roll
-heads will roll. Someone will be severely punished, as in If no one meets the chairman's plane, heads will roll. This hyperbolic expression alludes to the punishment of being beheaded.
-So last weekend’s news that they would be abolished was a complete surprise. Curiously, it was revealed by the English-language service of Xinhua, the government’s main news-agency, hours before it was released in Chinese (heads rolled at Xinhua because of this).
+
+* heads will roll. Someone will be severely punished, as in If no one meets the chairman's plane, heads will roll. This hyperbolic expression alludes to the punishment of being beheaded.
+* *[example]: So last weekend’s news that they would be abolished was a complete surprise. Curiously, it was revealed by the English-language service of Xinhua, the government’s main news-agency, hours before it was released in Chinese (heads rolled at Xinhua because of this).*
 
 ### draconian
-Draconian laws, government actions, etc. are extremely severe, or go further than what is right or necessary:
-Mr Xi’s constitutional changes—which go beyond scrapping term limits—could make the political system even more opaque and draconian.
+
+* *adjective*, Draconian laws, government actions, etc. are extremely severe, or go further than what is right or necessary:
+* *[example]: Mr Xi’s constitutional changes—which go beyond scrapping term limits—could make the political system even more opaque and draconian.*
 
 ### preamble
-an introduction to a speech or piece of writing
-The current constitution mentions the leading role of the party only in its preamble.
+
+* *noun*, an introduction to a speech or piece of writing
+* *[example]: The current constitution mentions the leading role of the party only in its preamble.*
 
 ### amalgamate
-to join or unite to form a larger organization or group, or to make separate organizations do this.
-Party and state could hardly become more amalgamated.
+
+* *verb*, to join or unite to form a larger organization or group, or to make separate organizations do this.
+* *[example]: Party and state could hardly become more amalgamated.*
 
 ### judiciary
-the part of a country's government that is responsible for its legal system, including all the judges in the country's courts:
-No less important, the parliament will approve what looks like a new administrative branch that merges elements of the party, government, police and judiciary into a powerful organisation called the National Supervision Commission.
 
-### turn one's back one
-to ignore someone or something
-For years scholars like him have been trying, as Deng did, to devise ways of reconciling constitutional norms with one-party rule. They fear that Mr Xi has turned his back on this effort.
+* *noun*, the part of a country's government that is responsible for its legal system, including all the judges in the country's courts.
+* *[example]: No less important, the parliament will approve what looks like a new administrative branch that merges elements of the party, government, police and judiciary into a powerful organisation called the National Supervision Commission.*
+
+### turn one's back on
+
+* to ignore someone or something
+* *[example]: For years scholars like him have been trying, as Deng did, to devise ways of reconciling constitutional norms with one-party rule. They fear that Mr Xi has turned his back on this effort.*
 
 ### in any dispute
 
-So why has he done this? He could have stayed on as general secretary. His ideology, called “Xi Jinping Thought for a New Era”, would still have been in the party’s own charter, giving him the status of final arbiter in any dispute.
+* *[example]: So why has he done this? He could have stayed on as general secretary. His ideology, called “Xi Jinping Thought for a New Era”, would still have been in the party’s own charter, giving him the status of final arbiter in any dispute.*
 
 ### grip
-control over something or someone:
+
+* *noun*, ontrol over something or someone.
 
 ### entrenched
-Entrenched ideas are so fixed or have existed for so long that they cannot be changed:
-It is even possible, as People’s Daily argued online on February 26th, that staying as president and party chief for another ten years or more will lead to more consistent, long-term policy-making and perhaps enable him to get to grips with some of the economy’s entrenched problems.
+
+* *adjective*, Entrenched ideas are so fixed or have existed for so long that they cannot be changed:
+* *[example]: It is even possible, as People’s Daily argued online on February 26th, that staying as president and party chief for another ten years or more will lead to more consistent, long-term policy-making and perhaps enable him to get to grips with some of the economy’s entrenched problems.*
 
 ### blunder
-a serious mistake, usually caused by not taking care or thinking.
-The abolition of term limits may be just such a blunder.
+
+* *noun*, a serious mistake, usually caused by not taking care or thinking.
+* *[example]: The abolition of term limits may be just such a blunder.*

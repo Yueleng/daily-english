@@ -258,7 +258,7 @@
 
 * *adjective*, strongly inclined.
 
-### hegemonic 
+### hegemonic
 
 * *adjective*, strong and powerful and therefore able to control others, or relating to the idea that a country is like this.
 
