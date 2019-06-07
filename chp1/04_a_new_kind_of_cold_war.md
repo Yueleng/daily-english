@@ -164,7 +164,7 @@
 
 * *verb*, to suggest something for discussion.
 
-### spooks
+### spook
 
 * *noun*, a spy.
 * *[example]: Some may have wondered why it took so long. An American prohibition against the use of equipment made by Huawei had long been mooted, out of fear that China’s spooks could use it to spy on its geopolitical rival.*

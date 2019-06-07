@@ -218,7 +218,7 @@ egalitarianism
 ### habitual
 
 * *adjective*, usual or repeated.
-* *[example] These traits can then be used to determine whether someone attempting to make a transaction is likely to be the device’s habitual user.*
+* *[example]: These traits can then be used to determine whether someone attempting to make a transaction is likely to be the device’s habitual user.*
 
 ### stride
 
