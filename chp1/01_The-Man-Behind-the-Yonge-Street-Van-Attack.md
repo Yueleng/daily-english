@@ -103,7 +103,7 @@
 
 ### mantra
 
-* *noun*, a word or phrase that is often repeated and expresses a particular strong belief.
+* *noun*, a word or phrase that is often repeated and expresses a particular strong belief. A mantra is a motivating chant, like the “I think I can, I think I can” you repeat over and over to yourself on the last stretch of every marathon you run.
 * *[example]: “I don’t like girls,” he whispered over and over like a mantra.*
 
 ### blurbs
@@ -133,7 +133,7 @@
 
 ### coveted
 
-* *adjective*, greatly desired or envied.
+* *adjective*, /ˈkəvədəd/ greatly desired or envied.
 
 ### gig
 
@@ -232,11 +232,11 @@
 * *verb*, to cause someone to be completely unable to understand or explain something.
 * *[example]: His uniform would be unkempt, or his clothes folded incorrectly in his kit. Summerfield was baffled. “It seemed like he didn’t understand the gravity of the situation he was in,”*
 
-### barked
+### bark
 
 * *verb [T]*, to shout at someone in a forceful manner:
 
-### push-ups
+### push-up
 
 * A push-up is a common calisthenics exercise beginning from the prone position, or the front leaning rest position known in the military.
 * *[example]: Instructors barked orders at him, making him do one push-up for each loose thread on his uniform, or making the entire platoon do push-ups for Minassian’s mistakes.*
@@ -246,7 +246,7 @@
 * *noun*, a round, flat hat made of soft material.
 * *[example]: He showed him how to shape his beret properly, suggesting that he shower with it on and let it dry on his head.*
 
-### Strep throat
+### strep throat
 
 * Strep throat is a bacterial infection that can make your throat feel sore and scratchy. Strep throat accounts for only a small portion of sore throats. If untreated, strep throat can cause complications, such as kidney inflammation or rheumatic fever.
 
@@ -452,6 +452,10 @@
 * *noun*, in ancient Greek stories, a creature with many heads that grew again when cut off.
 * *[example]: Many sites, including Reddit, shut down incel forums for promoting violence and hate speech, but the groups are like a hydra: when one head is cut off, another springs up quickly in its place.*
 
+### clipper
+
+* *noun*, a device for cutting something, especially nails, hair, wire, or bushes.
+
 ### shorn (past participle of shear)
 
 * *verb*, to cut the hair on a person's head close to the skin, especially without care:
@@ -559,6 +563,10 @@
 * *noun*, a large, angry crowd, especially one that could easily become violent.
 * *[example]: At his son’s first court appearance, Vahe, his face lined and eyes sunken, made his way through a mob of reporters shouting around his police escort.*
 
+### bail
+
+* *noun*,  an amount of money that a person who has been accused of a crime pays to a law court so that they can be released until their trial. The payment is a way of making certain that the person will return to court for trial.
+
 ### detention
 
 * *noun*, the act of officially detaining someone.
@@ -583,7 +591,7 @@
 
 * *adjective*, of the spine.
 
-### fractures
+### fracture
 
 * *noun*, a break or crack in something hard, especially a bone.
 

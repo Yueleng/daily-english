@@ -58,7 +58,7 @@
 
 * *adjective*, (of something such as bad behaviour) not necessary, or with no cause.
 
-### slurs
+### slur
 
 * *noun*, a remark that criticizes someone and is likely to have a harmful effect on their reputation.
 
@@ -73,7 +73,7 @@
 
 ### palatable
 
-* *adjective* acceptable.
+* *adjective*, acceptable.
 
 ### guise
 
@@ -82,7 +82,7 @@
 
 ### surge
 
-* *noun*, a sudden and great increase.*
+* *noun*, a sudden and great increase.
 
 ### simmering
 
@@ -111,9 +111,12 @@
 
 ### fractious
 
-* *adjective*, 
-easily upset or annoyed, and often complaining.
+* *adjective*, easily upset or annoyed, and often complaining.
 * *[example]: In part, that lack of concern reflected a view of the far right as self-defeatingly fractious.*
+
+### spring up
+
+* come into existence; take on form or shape.
 
 ### infighting
 
@@ -177,7 +180,7 @@ most important, because of including or affecting all other areas.
 * *adjective*, done or shown publicly or in an obvious way and not secret.
 * *[example]: Another said he worked in a small Ontario city at a blue-collar job where he was trying to gradually increase his “power level,” or overt racism, to convert his co-workers to his world view.*
 
-### bragged
+### brag
 
 * *verb*, to speak with pride, often with too much pride, about something you have done or something you possess. 
 * *[example]: A third was a middle-aged father who bragged that his teenage children seemed to be adopting his attitudes.*
@@ -187,12 +190,12 @@ most important, because of including or affecting all other areas.
 * *noun*, a name or nickname.
 * *[example]: Yet another, who went by the online moniker Dank, described himself as a University of Toronto graduate who was now training at another institution to become a teacher.*
 
-### deportations
+### deportation
 
 * *noun*, ​to force someone to leave a country, especially someone who has no legal right to be there or who has broken the law.
 * *[example]: “What was the point of the train cars and the deportations if it was just to kill them all?”*
 
-### delegating
+### delegate
 
 * *verb*, to give a particular job, duty, right, etc. to someone else so that they do it for you.
 * *[example]: that way I'm delegating research to her and not telling her anything.*
@@ -234,7 +237,7 @@ most important, because of including or affecting all other areas.
 
 * *verb*, to do very well in an exam.
 
-### narratives
+### narrative
 
 * *noun*, a particular way of explaining or understanding events.
 * *[example]: “l’ll play their game and recite what they want to hear,” he said, adding that he was “acing the diversity class because I know all their narratives.*
@@ -249,7 +252,7 @@ most important, because of including or affecting all other areas.
 * what you go by on the internet. see screen name.
 * *[example]: One man, who went by the online handle Rusty and who described himself as an experienced member of the Canadian Armed Forces, was seen by other members as a leader and his advice on training, weapons and tactics was sought after.*
 
-### gearing up
+### gear up
 
 * equip or prepare oneself.
 
@@ -277,7 +280,7 @@ most important, because of including or affecting all other areas.
 * To stamp out something is to end it.
 * *[example]: In media interviews, Chief of Defence Staff General Jonathan Vance has admitted that extremism is present in the Forces – and has said he is determined to stamp it out.*
 
-### perils
+### peril
 
 * *noun*, great danger, or something that is very dangerous.
 
@@ -312,7 +315,8 @@ most important, because of including or affecting all other areas.
 
 ### account
 
-* *[example]: * *[example]: The Globe spoke to several military members in Nova Scotia and was unable to corroborate his account.**
+* *noun*, a written or spoken description of an event.
+* *[example]: The Globe spoke to several military members in Nova Scotia and was unable to corroborate his account.*
 
 ### the 14 words
 
@@ -352,10 +356,9 @@ most important, because of including or affecting all other areas.
 * *noun*, a test or examination to discover if there is anything wrong with someone.
 * *[example]: The first candidate they rallied behind was Kellie Leitch, who was proposing screening immigrants for cultural values.*
 
-### stalled
+### stall
 
 * *verb*, If you stall an event, you delay it or prevent it from making progress.
-* *[example]: When her leadership campaign stalled, they moved en masse to support Maxime Bernier.*
 
 ### en masse
 
@@ -380,13 +383,14 @@ most important, because of including or affecting all other areas.
 * *noun*, a good moral quality in a person, or the general quality of being morally good.
 * *[example]: One chat-room member, a high-school student in B.C., used a slur to describe Mr. Bernier as a puppet “designed to make Conservatives complacent over the destruction of our country by giving us a few virtue signals here and there.”*
 
-### perks
+### perk
 
 * *noun*, an advantage.
 * *[example]: One member wrote that “Bernier had perks, but I don’t think he was going to save us either. We have to work inside the party and change people one way or another.”*
 
 ### Overton window
 
+* The Overton window is a term for the range of ideas tolerated in public discourse, also known as the window of discourse.
 * *[example]: Their first aim was to shift the Overton window, a term used to describe the ever-changing limits of what is considered acceptable public debate.*
 
 ### pry
@@ -403,7 +407,7 @@ most important, because of including or affecting all other areas.
 * *noun*, an act of separating from a group, especially because of disagreement.
 * *[example]: The record of their discussions ends before Mr. Bernier announced the launch of his breakaway People’s Party of Canada in September of 2018.*
 
-### derided
+### deride
 
 * *verb*, to laugh at someone or something in a way that shows you think they are stupid or of no value.
 * *[example]: The previous July, Mr. Strashok had derided Mr. Kenney himself.*
@@ -418,7 +422,7 @@ most important, because of including or affecting all other areas.
 * Vetting is the process of performing a background check on someone before offering them employment, conferring an award, or doing fact checking prior to making any decision. In addition, in intelligence gathering, assets are vetted to determine their usefulness.
 * *[example]: In the chats obtained by The Globe, GuyNumber7 also made himself out to be an important figure in the neo-Nazi movement in Calgary: He described his work “vetting” individuals who wished to join the ranks of the city’s alt-right and wrote about how he had hosted alt-right activists from elsewhere in Canada.*
 
-### procurements
+### procurement
 
 * *noun*, the process of getting supplies.
 * *[example]:  He maintained an alias-free blog site where he posted about Canadian military procurements;*
@@ -441,7 +445,7 @@ most important, because of including or affecting all other areas.
 * *noun*, the equipment, clothes, etc. that you use to do a particular activity.
 * *[example]: That façade began to crumble in the fall of 2018, when an investigation by Ricochet Media revealed that Mr. Strashok was helping to manage Fireforce Ventures, an online store that sold coded white-supremacist symbols in the form of military-surplus gear.*
 
-### touted
+### tout
 
 * *verb*, to advertise, talk about, or praise something or someone repeatedly, especially as a way of encouraging people to like, accept, or buy something.
 * *[example]: Mr. Strashok, whose LinkedIn profile touted his political-organizing experience, was eventually denounced by Mr. Kenney and expelled from the party after his online activity was exposed.*
@@ -458,10 +462,10 @@ most important, because of including or affecting all other areas.
 
 ### tentatively
 
-* *adverb*, in a way that may be changed later.
+* *adverb*, in a way that shows you are not certain or confident.
 * *[example]: The alt-right was, however tentatively, moving from an online subculture to what it envisioned as a more street-fighting, real-world movement.*
 
-### surmised
+### surmise
 
 * *verb*, to guess something, without having much or any proof:
 
@@ -479,7 +483,7 @@ most important, because of including or affecting all other areas.
 
 * *noun*, alcohol.
 
-### sparred
+### spar
 
 * *verb*, ​to practise boxing, without hitting hard
 * *[example]: They brought plenty of food and booze, sparred with one another and made big breakfasts after long nights of drinking.*
@@ -502,7 +506,7 @@ most important, because of including or affecting all other areas.
 * *noun*, a short period when a person stays in a particular place.
 * *[example]: As their sojourn in the woods ended, the administrators and leaders of the group promoted everyone present to important roles in the Canadian Super Players chat room.*
 
-### espoused
+### espouse
 
 * *verb*, ​to become involved with or support an activity or opinion.
 
@@ -557,7 +561,7 @@ most important, because of including or affecting all other areas.
 * *verb*, to criticize someone or something severely.
 * *[example]: They disliked the Proud Boys, for instance, for being too friendly with Jews. Some also castigated La Meute due to its ties with the Jewish Defence League.*
 
-### berated
+### berate
 
 * *verb*, to criticize or speak in an angry manner to someone.
 * *[example]: Although members berated far-right individuals whose public persona was less extreme than their politics, they occasionally made an exception for people who had a large following. Ms. Goldy was among those exceptions.*
@@ -575,7 +579,7 @@ most important, because of including or affecting all other areas.
 
 * *noun*, the generally accepted beliefs of society at a particular time.
 
-### pronouns
+### pronoun
 
 * *noun*, a word that is used instead of a noun or a noun phrase: she, it, who
 
@@ -586,14 +590,17 @@ most important, because of including or affecting all other areas.
 
 ### venue
 
+* *noun*, the place where a public event or meeting happens.
 * *[example]: Canadian Super Players members also spoke of using the professor’s events as venues for recruiting.*
 
-### emboldened
+### embolden
 
+* *noun*, to make someone brave.
 * *[example]: The chat room and its conversations exist in a digital world one step removed from reality, which can make it difficult to assess the threat they represent. But the participants were also taking concrete steps in their communities to advance their political aims; the chat room emboldened and encouraged them, and gave them a place to report their progress and be held to account.*
 
-### prosecutors
+### prosecutor
 
+* *noun*, a legal official who accuses someone of committing a crime, especially in a law court.
 * *[example]: U.S. prosecutors said that Dylann Roof, who killed nine black people at a South Carolina church in 2015, was self-radicalized online.*
 
 ### synagogue
@@ -603,7 +610,8 @@ most important, because of including or affecting all other areas.
 
 ### insidious
 
-* *[example]: The man accused of killing 11 people at a Pittsburgh synagogue last year had posted dozens of anti-Semitic messages on social media before delivering a final post that read, “Screw your optics, I’m going in.”*
+* *adjective*, (of something unpleasant or dangerous) gradually and secretly causing harm.
+* *[example]:  But the discussions behind those actions reveal a troubling, insidious process of radicalization.*
 
 ### spate
 
@@ -654,12 +662,12 @@ most important, because of including or affecting all other areas.
 * *noun*, an adjective added to a person's name or a phrase used instead of it, usually to criticize or praise them.
 * *[example]: Going by the pseudonym National Traditionalist, he told fellow members on the Canadian Super Players chat group that he “hated” his high school and most of his peers, using epithets to describe gay people, trans people, immigrants and refugees in his classes.*
 
-### resented
+### resent
 
 * *verb*, to feel angry because you have been forced to accept someone or something that you do not like.
 * *[example]:  He said he resented living in a multicultural society.*
 
-### lobbyists
+### lobbyist
 
 * *noun*, someone who tries to persuade a politician or official group to do something.
 * *[example]: He blamed “Jewish lobbyists” for the decision to open Canadian immigration to “non-whites.”*
@@ -669,8 +677,9 @@ most important, because of including or affecting all other areas.
 * *adverb*, in a way that is strange and not what most people would expect or enjoy.
 * *[example]: Perversely, he claimed to enjoy reading about Indigenous people who had gone missing in places such as Winnipeg.*
 
-### progressive politics
+### progressive politics / Progressivism
 
+* Progressivism is the support for or advocacy of social reform.[1] As a philosophy, it is based on the idea of progress, which asserts that advancements in science, technology, economic development and social organization are vital to the improvement of the human condition.
 * *[example]: Over the course of the year-long group chat, he also revealed a lot about his life. He came from a “normie liberal household” in the Vancouver neighbourhood of Kitsilano, a place known for progressive politics.*
 
 ### heckle
